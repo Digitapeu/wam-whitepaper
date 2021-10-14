@@ -1,8 +1,7 @@
 # Table of contents
 
-* [Executive Summary](README.md)
+* [WAM](README.md)
 * [Disclaimer](disclaimer.md)
-* [What is WAM?](what-is-wam.md)
 * [Team](team.md)
 * [The Platform](the-platform/README.md)
   * [Our Mission](the-platform/our-mission.md)
@@ -15,9 +14,5 @@
 * [Economy](economy/README.md)
   * [Tokenomics](economy/tokenomics.md)
   * [Revenue Streams](economy/revenue-streams.md)
-* [Technology](technology/README.md)
-  * [Why Blockchain?](technology/why-blockchain.md)
-  * [What we use](technology/what-we-use.md)
-  * [Wallets](technology/wallets.md)
-  * [NFTs](technology/nfts.md)
+* [Technology](technology.md)
 * [Advisors](advisors.md)

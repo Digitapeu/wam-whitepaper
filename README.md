@@ -1,7 +1,2 @@
----
-description: Something about WAM
----
+# What is WAM?
 
-# Executive Summary
-
-Some content right here? Done.
