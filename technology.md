@@ -6,7 +6,7 @@ Moving forward this will be referred as the _“centralised” _part. On top of 
 
 ### **Decentralisation and Blockchain**
 
-We’ll integrate into the **WAM.app** stack the _ERC-20_ token standard for our WTAP (Tapcoin) and also _ERC-1155 / ERC-721_ non-fungible token standards (NFTs) for the digital assets storage and trading.
+We’ll integrate into the **WAM.app** stack the _ERC-20_ token standard for our WAM Coin and also _ERC-1155 / ERC-721_ non-fungible token standards (NFTs) for the digital assets storage and trading.
 
 There are many benefits for using Ethereum like ease of use, robustness or interoperability. However, for a platform like ours which expects relatively high TPS there’s also an important issue which is scalability (throughput).
 

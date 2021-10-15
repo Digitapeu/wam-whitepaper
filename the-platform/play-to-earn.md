@@ -1,2 +1,0 @@
-# Play to Earn
-
