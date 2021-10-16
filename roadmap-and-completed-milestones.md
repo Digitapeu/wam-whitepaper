@@ -9,19 +9,19 @@ description: Updated 15th October 2021
 * October 2021: Presale started
 * Early December 2021: Launchpad Sales & Token Generation Event
 * Mid/Late December 2021: 
-  * Security audits & final testing
-  * Platform migration to the blockchain compatible version where players are able to use and earn **WAM Coins**.
+  * Security audits & final testing of the platform;
+  * Migration to the blockchain compatible version where players are able to use and earn **WAM Coins**;
 * Q1 2022:
-  * Discovery section
-  * Infrastructure upgrades from our backend services
-  * NFTs marketplace
+  * Discovery section where you can find more public & private tournaments or meet new people;
+  * Infrastructure upgrades for our backend services;
+  * NFTs marketplace launch;
 * Q2 2022: 
-  * Team tournaments
-  * Developer program
+  * Team tournaments – create your team and play agains others;
+  * Developer program to incentivise game developers publish their games on **WAM.app**;
 * Q3: 2022: 
   *
 * Q4: 2022: 
-  * Game creation engine with AI
+  * Game creation engine with AI – users will be able to create their own hypercasual games just with some simple instructions and use those games in private tournaments;
 
 ## **Completed milestones**
 
