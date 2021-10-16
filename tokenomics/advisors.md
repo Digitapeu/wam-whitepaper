@@ -2,11 +2,9 @@
 
 {% tabs %}
 {% tab title="Overview" %}
-
-
 | Token Amount | % of total supply |
 | ------------ | ----------------- |
-| 30,000,000   | 3%                |
+| 50,000,000   | 5%                |
 {% endtab %}
 
 {% tab title="Release Schedule" %}

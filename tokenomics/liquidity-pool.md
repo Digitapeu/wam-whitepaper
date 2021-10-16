@@ -2,16 +2,12 @@
 
 {% tabs %}
 {% tab title="Overview" %}
-
-
 | Token Amount | % of total supply |
 | ------------ | ----------------- |
-| 30,000,000   | 3%                |
+| 12,000,000   | 1.2%              |
 {% endtab %}
 
 {% tab title="Release Schedule" %}
-
-
 | Date  | Liquidity Pool |
 | ----- | -------------- |
 | Day 0 | 12,000,000     |
