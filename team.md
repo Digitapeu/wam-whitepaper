@@ -49,35 +49,35 @@
 
 
 
-## **Asya Prokopenko - Community Manager**
+### **Asya Prokopenko - Community Manager**
 
 | <p>Asya has broad experience in Digital marketing for over 6 years while working with SEO, SMM, PR, Community management, and Content marketing.</p><p></p><p>She has a proven record of successful negotiations with new partners, setting up deals and stimulating relationships with the current ones and possesses in depth knowledge and expertise in gaming and dating verticals on US and European markets.</p> | ![](.gitbook/assets/wam_asyaprokopenko.png) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------: |
 
 
 
-## **Alexander Ivanov - Gaming Marketing Manager**
+### **Alexander Ivanov - Gaming Marketing Manager**
 
 | ![](.gitbook/assets/wam_alexivanov.png) | <p>Alex has more than 4 years of experience in performance marketing, including hands-on expertise working with promotion and analytics systems, as well as promotion of gaming projects in ASO.</p><p></p><p>In the past, he was involved in the development of media buying automation services. Alex is a person whose whole life is connected to games and the gaming industry.</p> |
 | :-------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 
-## **Marius Rusu - Investor Relations**
+### **Marius Rusu - Investor Relations**
 
 | <p>Marius' specialties are mergers and acquisitions, management consultancy and growth advisory. Marius has been on both sides of the table over the last 7 years and has helped dozens of buyers and sellers from all continents. </p><p></p><p>He has advised on dozens of successful transactions between private owner-managed entities and HNWIs, entrepreneurs, PE funds, VC funds, trade companies. </p><p></p><p>Marius is currently a partner in Adnumus.</p> | ![](.gitbook/assets/wam_mariusrusu.png) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------: |
 
 
 
-## **Alex Suciu - Investor Relations**
+### **Alex Suciu - Investor Relations**
 
 |   | <p>Alex is an M&#x26;A specialist and IT enthusiast. His background is in sociology and law and is currently working on a masters degree in programming.</p><p></p><p>He started his career in banking and had his first business at 24, providing cost reduction consultancy for companies with at least €1,5 m turnover.</p><p></p><p>His next step was working for the largest insolvency practice in Romania (CITR- now part of Impetum Group) and then became a deal leader for a company in London, working with international clients to help them expand through acquisitions.</p><p></p><p>In 2020 he founded Adnumus with his partner, focusing on M&#x26;A in Romania and the CEE region.</p> |
 | - | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 
-## Arny - Ambassador
+### Arny - Ambassador
 
 | <p>Having spent the last 9y in a gaming company with a clear focus on delivering value, he’s the world’s most experienced frenchie in hypercasual gaming. He’s spent time developing our brand WAM ( he repeats it daily ), came up with brilliant game designs based on his own vision and works with the development team to put all that creative genius into practice.<br><br>His daily creative stand ups keep all the team on track to what is important to our community: having fun on simple, competitive games.</p> | ![](.gitbook/assets/wam_arny.png) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------: |
