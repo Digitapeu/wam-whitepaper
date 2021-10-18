@@ -2,13 +2,15 @@
 
 ## **Daniel Tamas – CEO**
 
-Daniel started his gaming career in 2007 cofounding IDEA Studios, an indie game studios and publisher. Since 2007 he and his team created more than 4000 viral online games that reached more than 3 billion players worldwide. His responsibilities varied from operations to engineering, design, business development, sales and marketing, monetization, product development and heading the R\&D department.
+![](.gitbook/assets/wam_danieltamas.png) Daniel started his gaming career in 2007 cofounding IDEA Studios, an indie game studios and publisher. Since 2007 he and his team created more than 4000 viral online games that reached more than 3 billion players worldwide. His responsibilities varied from operations to engineering, design, business development, sales and marketing, monetisation, product development or heading the R\&D department in companies that generated more than €7m to date.
 
 In 2016 he cofounded Digitap with the purpose of pushing the boundaries of game publishing targeting the browser as a true free and open platform without gatekeepers.
 
 ## **Alex Rus – CBO**
 
 Alex’s background is social media publishing, business development and portfolio management of privately held companies in the following areas: automotive, hospitality and investment companies with more than €6 million in annual revenues having the CBO role.
+
+In 2016 cofounded Digitap with Daniel, bringing the social media and business development expertise to the team.
 
 ## **Vlad Mustiata – CTO**
 
@@ -20,13 +22,13 @@ Olga, with more than 8 years in digital marketing has been filling the CMO role 
 
 ## **Anca Tamas - CPO**
 
-Anca’s 10 year game producing experience coupled with extensive user acquisition knowledge and KPI measurement. Having published more than 30.000 games as head of content for dressupwho.com she is leading our content strategy ( tournaments and games ).\
+Anca’s 10 year game producing experience coupled with extensive user acquisition knowledge and KPI measurement. Having published more than 30.000 games as head of content for several high traffic gaming websites she is leading our content strategy ( tournaments and games ).\
 \
 She has been involved in the whole process of game creation ( research, ideation, game design, project management ) as well as on the marketing side of the business like game publishing, licensing and partnerships.
 
 ## **Larisa Muresan - COO**
 
-Larisa has gained vast experience by overseeing IDEA Studios’ operations, over a course of 6 years. She was solely responsible for the operational coordination of several key departments like legal, financial, accounting and hr, with more than 500 employees managed to date from hiring, contracts, salary negotiations and payments.
+Larisa has gained vast experience by overseeing business operations of multiple gaming companies, over a course of 6 years. She was solely responsible for the operational coordination of several key departments like legal, financial, accounting and hr, with more than 500 employees managed to date from hiring, contracts, salary negotiations and payments.
 
 ## **Daria Avramova - PR Manager**
 
@@ -48,7 +50,7 @@ In the past, he was involved in the development of media buying automation servi
 
 ## **Marius Rusu - Investor Relations**
 
-Marius' specialties are mergers and acquisitions, management consultancy and growth advisory. Marius has been on both sides of the table over the last 7 years and has helped dozens of buyers and sellers from all continents. He has advised on dozens of successful transactions between private owner-managed entities and HNWIs, entrepreneurs, PE funds, VC funds, trade companies. Marius is currently a partner in Adnumus (https://www.adnumus.com/).
+Marius' specialties are mergers and acquisitions, management consultancy and growth advisory. Marius has been on both sides of the table over the last 7 years and has helped dozens of buyers and sellers from all continents. He has advised on dozens of successful transactions between private owner-managed entities and HNWIs, entrepreneurs, PE funds, VC funds, trade companies. Marius is currently a partner in Adnumus.
 
 ## **Alex Suciu - Investor Relations**
 
