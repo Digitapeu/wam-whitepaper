@@ -1,6 +1,6 @@
 # WAM.app
 
-**WAM.app** is a play-to-earn hypercasual social gaming platform where users can compete in skill based tournaments on simple yet very popular and highly engaging and entertaining games, to win WAM Coins, an ERC-20 utility token based on the Ethereum network.
+**WAM.app** is a play-to-earn hypercasual social gaming platform where users can compete in skill based tournaments on simple yet very popular and highly engaging and entertaining games, to win WAM Coins, an ERC-20 utility token based on the Ethereum network. The platform is developed by Digitap and operated by WAM Global BVI.
 
 Launched in February 2021 as public beta we reached more than **2.5m players** in less than 2 months with 10k people tournaments. After this initial success we decided to create the mobile apps where to this date they have been downloaded more than 30k times so far.
 
