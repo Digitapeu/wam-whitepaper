@@ -15,5 +15,5 @@
   * [Company Reserve](tokenomics/company-reserve.md)
   * [Advisors](tokenomics/advisors.md)
 * [Technology](technology.md)
-* [Team](team.md)
+* [🦄 Team](team.md)
 * [Advisors](advisors.md)

@@ -1,4 +1,4 @@
-# Team
+# 🦄 Team
 
 ## **Daniel Tamas – CEO**
 
