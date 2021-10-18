@@ -4,7 +4,7 @@
 
 Launched in February 2021 as public beta we reached more than **2.5m players** in less than 2 months with 10k people tournaments. After this initial success we decided to create the mobile apps where to this date they have been downloaded more than 30k times so far.
 
-**WAM.app** was nominated as a finalist at this year’s Mobile Games Awards in an impressive line up of companies like Niantic and Huawei.
+Our platform was nominated as a finalist at this year’s Mobile Games Awards in an impressive line up of companies like Niantic and Huawei.
 
 On **WAM.app**, the more a player wins the more their in-platform rank grows, just like normal real-life leaderboards in competitive sports. Once a player advances their rank they can participate in more rewarding tournaments with higher entrance fees & prize pools.
 
