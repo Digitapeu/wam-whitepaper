@@ -1,7 +1,6 @@
 # Table of contents
 
 * [WAM.app](README.md)
-* [Disclaimer](disclaimer.md)
 * [The Platform](the-platform.md)
 * [Roadmap and completed milestones](roadmap-and-completed-milestones.md)
 * [Tokenomics](tokenomics/README.md)
