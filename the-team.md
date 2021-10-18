@@ -53,7 +53,7 @@ Won the **Techsylvania Runner up Award - 2017.  **Both Daniel and Alex were ange
 
 ![](.gitbook/assets/wam\_olhaserebriakova.png)
 
-### **Olga Serebriakova - CMO**
+### **Olga Serebriakova – CMO**
 
 ![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/olga-havryliuk**](https://www.linkedin.com/in/olga-havryliuk)****
 
@@ -65,7 +65,7 @@ Her overseas training and expertise gives her the ability to manage a multinatio
 
 ![](.gitbook/assets/wam\_ancatamas.png)
 
-### **Anca Tamas - CPO**
+### **Anca Tamas – CPO**
 
 ![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/ancatamas**](https://www.linkedin.com/in/ancatamas)****
 
@@ -77,7 +77,7 @@ She has been involved in the whole process of game creation ( research, ideation
 
 ![](.gitbook/assets/wam\_larisamuresan.png)
 
-### **Larisa Muresan - COO**
+### **Larisa Muresan – COO**
 
 ![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/larisa-muresan**](https://www.linkedin.com/in/larisa-muresan)****
 
@@ -89,7 +89,7 @@ She was solely responsible for the operational coordination of several key depar
 
 ![](.gitbook/assets/wam\_dariaavramova.png)
 
-### **Daria **Tykhonova** - PR Manager**
+### **Daria **Tykhonova** – PR Manager**
 
 ![](.gitbook/assets/linkedin\_logo.png)** **[**https://linkedin.com/in/daria-tykhonova**](https://linkedin.com/in/daria-tykhonova)****
 
@@ -101,7 +101,7 @@ Her background in SERM, Media Buying and Affiliate Marketing helped her get deep
 
 ![](.gitbook/assets/wam\_asyaprokopenko.png)
 
-### **Asya Prokopenko - Community Manager**
+### **Asya Prokopenko – Community Manager**
 
 ![](.gitbook/assets/linkedin\_logo.png) [**https://www.linkedin.com/in/asya-prokopenko**](https://www.linkedin.com/in/asya-prokopenko)****
 
@@ -113,7 +113,7 @@ She has a proven record of successful negotiations with new partners, setting up
 
 ![](.gitbook/assets/wam\_alexivanov.png)
 
-### **Alexander Ivanov - Gaming Marketing Manager**
+### **Alexander Ivanov – Gaming Marketing Manager**
 
 ![](.gitbook/assets/linkedin\_logo.png)** **
 
@@ -125,7 +125,7 @@ In the past, he was involved in the development of media buying automation servi
 
 ![](.gitbook/assets/wam\_mariusrusu.png)
 
-### **Marius Rusu - Investor Relations**
+### **Marius Rusu – Investor Relations**
 
 ![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/mariusrusu**](https://www.linkedin.com/in/mariusrusu)****
 
@@ -139,7 +139,7 @@ Marius is currently a partner in Adnumus.
 
 ![](.gitbook/assets/wam\_alexsuciu.png)
 
-### **Alex Suciu - Investor Relations**
+### **Alex Suciu – Investor Relations**
 
 ![](.gitbook/assets/linkedin\_logo.png) [**https://www.linkedin.com/in/alexsuciu-**](https://www.linkedin.com/in/alexsuciu-)****
 
@@ -155,7 +155,7 @@ In 2020 he founded Adnumus with his partner, focusing on M\&A in Romania and the
 
 ### ![](.gitbook/assets/wam\_arny.png)
 
-### Arny - Ambassador
+### Arny **–** Ambassador
 
 Having spent the last 9y in a gaming company with a clear focus on delivering value, he’s the world’s most experienced frenchie in hypercasual gaming. He’s spent time developing our brand WAM ( he repeats it daily ), came up with brilliant game designs based on his own vision and works with the development team to put all that creative genius into practice.\
 \
