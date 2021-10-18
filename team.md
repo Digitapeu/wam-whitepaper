@@ -9,17 +9,25 @@
 
 ## **Alex Rus – CBO**
 
-Alex’s background is social media publishing, business development and portfolio management of privately held companies in the following areas: automotive, hospitality and investment companies with more than €6 million in annual revenues having the CBO role.
+| <p>Alex’s background is social media publishing, business development and portfolio management of privately held companies in the following areas: automotive, hospitality and investment companies with more than €6 million in annual revenues having the CBO role.</p><p></p><p>In 2016 cofounded Digitap with Daniel, bringing the social media and business development expertise to the team.</p> | ![](.gitbook/assets/wam_alexrus.png) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 
-In 2016 cofounded Digitap with Daniel, bringing the social media and business development expertise to the team.
+
 
 ## **Vlad Mustiata – CTO**
 
-Vlad started his career in computer science after attending the Polytechnic University of Bucharest. He co-founded StylishThemes and took the CTO role for 5 years, a startup that had more than 10k customers for their Wordpress custom made themes. Co-founder and CEO at ChatX, a smart shopping assistant ( won the Techsylvania runner up award - 2017 ).
+| ![](.gitbook/assets/wam_vladmustiata.png) | <p>Vlad started his career in computer science after attending the Polytechnic University of Bucharest. </p><p></p><p>He co-founded StylishThemes and took the CTO role for 5 years, a startup that had more than 10k customers for their Wordpress custom made themes and €1m in annual revenues. Co-founder and CEO at ChatX, a smart shopping assistant </p><p></p><p>( won the Techsylvania Runner up Award - 2017 )<strong>.</strong></p> |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
 
 ## **Olga Serebriakova - CMO**
 
-Olga, with more than 8 years in digital marketing has been filling the CMO role for TerraLeads where she was responsible for creating, managing and measuring the results of millions of users while coordinating a large team of media buyers, designers and content managers. Her overseas training and expertise gives her the ability to manage a multinational environment and a +$2m monthly advertising budget.
+|                                                                                                                                                                                                                                                                                                                                                                                                                                             |   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
+| <p>Olga, with more than 8 years in digital marketing has been filling the CMO role for TerraLeads where she was responsible for creating, managing and measuring the results of millions of users while coordinating a large team of media buyers, designers and content managers. </p><p></p><p>Her overseas training and expertise gives her the ability to manage a multinational environment and a +$2m monthly advertising budget.</p> |   |
+
+
 
 ## **Anca Tamas - CPO**
 
