@@ -38,3 +38,5 @@
 | Month 25 | 5,555,000       |
 {% endtab %}
 {% endtabs %}
+
+11% released every trimester for 24 months. 

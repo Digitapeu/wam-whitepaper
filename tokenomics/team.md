@@ -37,3 +37,5 @@
 | Month 24 | 8,333,337 |
 {% endtab %}
 {% endtabs %}
+
+The team behind **WAM.app** should remain incentivised to keep working on the project and its ecosystem. Therefore, their share in the tokens are locked for 12 months and will be released gradually afterwards for 12 more months.

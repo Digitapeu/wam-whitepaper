@@ -133,3 +133,9 @@
 | Month 120 | 963,556     |
 {% endtab %}
 {% endtabs %}
+
+We decided to allocate **most of the tokens (46.3%)** in the reward pool. These tokens will be released gradually each month for **120 months (10 years)** so that we never run out of rewards for our users.
+
+On top of this we will add back in the reward pool a percentage from **WAM.app** profits.
+
+We believe that in order to avoid inflation these rewards need to be distributed to our most loyal users who will bring value to our token & platform and indirectly help the project to succeed.

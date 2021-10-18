@@ -19,3 +19,5 @@
 | Month 4 | 6,000,000      |
 {% endtab %}
 {% endtabs %}
+
+10% of the launchpad sales tokens will be unlocked from day zero. The rest of the tokens will be distributed in the following 4 months as can be seen from the **Unlock schedule**.

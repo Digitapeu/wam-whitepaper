@@ -20,3 +20,7 @@
 | Month 7 | 7,500,000  |
 {% endtab %}
 {% endtabs %}
+
+5% of the seed sales tokens will be unlocked from day zero. The rest of the tokens will be distributed in the following 7 months as can be seen from the **Unlock schedule**.
+
+These investors will purchase **WAM Coins** at a 40% discount.

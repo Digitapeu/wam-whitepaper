@@ -2,8 +2,6 @@
 
 {% tabs %}
 {% tab title="Overview" %}
-
-
 | Token Amount | % of total supply |
 | ------------ | ----------------- |
 | 75,000,000   | 7.5%              |
@@ -22,3 +20,7 @@
 | Month 7 | 18,750,000    |
 {% endtab %}
 {% endtabs %}
+
+5% of the private sales tokens will be unlocked from day zero. The rest of the tokens will be distributed in the following 7 months as can be seen from the **Unlock schedule**.
+
+These investors will purchase **WAM Coins** at a 20% discount.

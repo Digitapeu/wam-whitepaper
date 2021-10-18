@@ -61,3 +61,5 @@
 | Month 48 | 2,500,188 |
 {% endtab %}
 {% endtabs %}
+
+2% released every month during 48 months.

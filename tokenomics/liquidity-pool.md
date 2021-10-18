@@ -13,3 +13,5 @@
 | Day 0 | 12,000,000     |
 {% endtab %}
 {% endtabs %}
+
+These tokens will be released from day zero and will be used to provide the initial liquidity for the exchanges.
