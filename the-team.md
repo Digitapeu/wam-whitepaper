@@ -7,7 +7,7 @@ description: >-
 
 # 🦄 The Team
 
-### ****![](<.gitbook/assets/wam\_danieltamas (1).png>)****
+### ![](<.gitbook/assets/wam\_danieltamas (1).png>)****
 
 ### **Daniel Tamas – CEO**
 
@@ -89,7 +89,7 @@ She was solely responsible for the operational coordination of several key depar
 
 ![](.gitbook/assets/wam\_dariaavramova.png)
 
-### **Daria Avramova - PR Manager**
+### **Daria **Tykhonova** - PR Manager**
 
 ![](.gitbook/assets/linkedin\_logo.png)** **[**https://linkedin.com/in/daria-tykhonova**](https://linkedin.com/in/daria-tykhonova)****
 
