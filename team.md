@@ -1,3 +1,10 @@
+---
+description: >-
+  WAM.app is being built at Digitap by an international team of experienced
+  professionals in game publishing, marketing, community management and business
+  development, all focused on executing on our vi
+---
+
 # 🦄 Team
 
 ### **Daniel Tamas – CEO**
