@@ -2,9 +2,10 @@
 
 ## **Daniel Tamas – CEO**
 
-![](.gitbook/assets/wam_danieltamas.png) Daniel started his gaming career in 2007 cofounding IDEA Studios, an indie game studios and publisher. Since 2007 he and his team created more than 4000 viral online games that reached more than 3 billion players worldwide. His responsibilities varied from operations to engineering, design, business development, sales and marketing, monetisation, product development or heading the R\&D department in companies that generated more than €7m to date.
+| ![](<.gitbook/assets/wam_danieltamas (1) (1).png>) | <p>Daniel started his gaming career in 2007 cofounding IDEA Studios, an indie game studios and publisher. </p><p></p><p>Since 2007 he and his team created more than 4000 viral online games that reached more than 3 billion players worldwide. His responsibilities varied from operations to engineering, design, business development, sales and marketing, monetisation, product development or heading the R&#x26;D department in companies that generated more than €7m to date.</p><p></p><p>In 2016 he cofounded Digitap with the purpose of pushing the boundaries of game publishing targeting the browser as a true free and open platform without gatekeepers.</p> |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-In 2016 he cofounded Digitap with the purpose of pushing the boundaries of game publishing targeting the browser as a true free and open platform without gatekeepers.
+
 
 ## **Alex Rus – CBO**
 
