@@ -11,23 +11,23 @@ description: >-
 
 {% tabs %}
 {% tab title="Tournaments Wall" %}
-![](<.gitbook/assets/wam\_appintro\_feed (1).png>)
+![](.gitbook/assets/wam\_appintro\_feed.jpg)
 {% endtab %}
 
 {% tab title="Rankings" %}
-![](.gitbook/assets/wam\_appintro\_rankings.png)
+![](.gitbook/assets/wam\_appintro\_rankings.jpg)
 {% endtab %}
 
 {% tab title="Friends" %}
-![](<.gitbook/assets/wam\_appintro\_friends (1).png>)
+![](.gitbook/assets/wam\_appintro\_friends.jpg)
 {% endtab %}
 
 {% tab title="Notifications" %}
-![](<.gitbook/assets/wam\_appintro\_notifications (1).png>)
+![](.gitbook/assets/wam\_appintro\_notifications.jpg)
 {% endtab %}
 
 {% tab title="Account" %}
-![](.gitbook/assets/wam\_appintro\_account.png)
+![](.gitbook/assets/wam\_appintro\_account.jpg)
 {% endtab %}
 {% endtabs %}
 
