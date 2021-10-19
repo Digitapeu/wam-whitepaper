@@ -22,20 +22,31 @@
 | Month 9  | 0         |
 | Month 10 | 0         |
 | Month 11 | 0         |
-| Month 12 | 0         |
-| Month 13 | 8,333,333 |
-| Month 14 | 8,333,333 |
-| Month 15 | 8,333,333 |
-| Month 16 | 8,333,333 |
-| Month 17 | 8,333,333 |
-| Month 18 | 8,333,333 |
-| Month 19 | 8,333,333 |
-| Month 20 | 8,333,333 |
-| Month 21 | 8,333,333 |
-| Month 22 | 8,333,333 |
-| Month 23 | 8,333,333 |
-| Month 24 | 8,333,337 |
+| Month 12 | 4,166,667 |
+| Month 13 | 4,166,667 |
+| Month 14 | 4,166,667 |
+| Month 15 | 4,166,667 |
+| Month 16 | 4,166,667 |
+| Month 17 | 4,166,667 |
+| Month 18 | 4,166,667 |
+| Month 19 | 4,166,667 |
+| Month 20 | 4,166,667 |
+| Month 21 | 4,166,667 |
+| Month 22 | 4,166,667 |
+| Month 23 | 4,166,667 |
+| Month 24 | 4,166,667 |
+| Month 25 | 4,166,667 |
+| Month 26 | 4,166,667 |
+| Month 27 | 4,166,667 |
+| Month 28 | 4,166,667 |
+| Month 29 | 4,166,667 |
+| Month 30 | 4,166,667 |
+| Month 31 | 4,166,667 |
+| Month 32 | 4,166,667 |
+| Month 33 | 4,166,667 |
+| Month 34 | 4,166,667 |
+| Month 35 | 4,166,667 |
 {% endtab %}
 {% endtabs %}
 
-The team behind **WAM.app** should remain incentivised to keep working on the project and its ecosystem. Therefore, their share in the tokens are locked for 12 months and will be released gradually afterwards for 12 more months.
+The team behind **WAM.app** should remain incentivised to keep working on the project and its ecosystem. Therefore, their share in the tokens are locked for 12 months and will be released gradually afterwards for 24 more months.

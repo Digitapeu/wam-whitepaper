@@ -22,18 +22,31 @@
 | Month 9  | 0         |
 | Month 10 | 0         |
 | Month 11 | 0         |
-| Month 12 | 0         |
-| Month 13 | 4,185,000 |
-| Month 14 | 4,165,000 |
-| Month 15 | 4,165,000 |
-| Month 16 | 4,165,000 |
-| Month 17 | 4,165,000 |
-| Month 18 | 4,165,000 |
-| Month 19 | 4,165,000 |
-| Month 20 | 4,165,000 |
-| Month 21 | 4,165,000 |
-| Month 22 | 4,165,000 |
-| Month 23 | 4,165,000 |
-| Month 24 | 4,165,000 |
+| Month 12 | 2,083,333 |
+| Month 13 | 2,083,333 |
+| Month 14 | 2,083,333 |
+| Month 15 | 2,083,333 |
+| Month 16 | 2,083,333 |
+| Month 17 | 2,083,333 |
+| Month 18 | 2,083,333 |
+| Month 19 | 2,083,333 |
+| Month 20 | 2,083,333 |
+| Month 21 | 2,083,333 |
+| Month 22 | 2,083,333 |
+| Month 23 | 2,083,333 |
+| Month 24 | 2,083,333 |
+| Month 25 | 2,083,333 |
+| Month 26 | 2,083,333 |
+| Month 27 | 2,083,333 |
+| Month 28 | 2,083,333 |
+| Month 29 | 2,083,333 |
+| Month 30 | 2,083,333 |
+| Month 31 | 2,083,333 |
+| Month 32 | 2,083,333 |
+| Month 33 | 2,083,333 |
+| Month 34 | 2,083,333 |
+| Month 35 | 2,083,333 |
 {% endtab %}
 {% endtabs %}
+
+The tokens distributed to our advisors are locked for 12 months and will be released gradually afterwards for 24 more months.
