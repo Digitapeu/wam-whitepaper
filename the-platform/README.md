@@ -39,7 +39,7 @@ The platform will also have a _discovery section_, where you can find _private t
 
 ![](<../.gitbook/assets/image (2).png>)
 
-### **Tournaments**
+### **NFT Tournaments**
 
 There is also a special type of tournaments: NFT tournaments. These are special because in order to _enter_ the player have to own a special **NFT pass**. The _entrance fee_ will zero and the _reward pool_ will be guaranteed by the platform.
 
