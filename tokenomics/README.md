@@ -2,7 +2,7 @@
 
 **WAM Coin** will be unlocked gradually in a pre-determined schedule that will last for 120 months from the Token Generation Event (TGE). The initial circulating supply is set to **20,000,000 WAM **with an initial market cap at list price of **US$500,000**.
 
-![Token Allocation](<../.gitbook/assets/image (1).png>)
+![Token Allocation](<../.gitbook/assets/image (1) (1).png>)
 
 | Category          | Allocation        | %        | Lockup & Vesting                                                                     |
 | ----------------- | ----------------- | -------- | ------------------------------------------------------------------------------------ |
@@ -22,4 +22,4 @@
 
 The chart below illustrates the maximum possible issuance of **WAM Coin** over the coming years, and that the total supply will never exceed **1,000,000,000**.
 
-![WAM Coins Distribution Schedule](../.gitbook/assets/image.png)
+![WAM Coins Distribution Schedule](<../.gitbook/assets/image (3).png>)

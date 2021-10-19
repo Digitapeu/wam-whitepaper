@@ -1,8 +1,11 @@
 # Table of contents
 
 * [WAM.app](README.md)
-* [The Platform](the-platform.md)
-* [Roadmap and completed milestones](roadmap-and-completed-milestones.md)
+* [The Platform](the-platform/README.md)
+  * [Social Profiles](the-platform/social-profiles.md)
+  * [Creator Tools](the-platform/creator-tools.md)
+  * [Developer Program](the-platform/developer-program.md)
+* [Roadmap and Completed Milestones](roadmap-and-completed-milestones.md)
 * [Tokenomics](tokenomics/README.md)
   * [Seed Sales](tokenomics/seed-sales.md)
   * [Private Sales](tokenomics/private-sales.md)
