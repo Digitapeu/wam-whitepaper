@@ -16,7 +16,7 @@ Being a social platform also means you can add other players as friends, chat wi
 {% endtab %}
 
 {% tab title="Friends" %}
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 {% endtab %}
 
 {% tab title="Notifications" %}
