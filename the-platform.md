@@ -19,11 +19,11 @@ description: >-
 {% endtab %}
 
 {% tab title="Friends" %}
-
+![](.gitbook/assets/wam\_appintro\_friends.png)
 {% endtab %}
 
 {% tab title="Notifications" %}
-
+![](<.gitbook/assets/wam\_appintro\_notifications (1).png>)
 {% endtab %}
 
 {% tab title="Account" %}
