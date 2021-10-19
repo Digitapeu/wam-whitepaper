@@ -11,7 +11,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Tournaments Wall" %}
-![](.gitbook/assets/wam\_appintro\_feed.png)
+![](<.gitbook/assets/wam\_appintro\_feed (1).png>)
 {% endtab %}
 
 {% tab title="Rankings" %}
