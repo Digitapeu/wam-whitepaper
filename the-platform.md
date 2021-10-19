@@ -24,7 +24,7 @@ Once the 3 tries are over, the game is automatically reset to 0 so everyone has 
 
 There are 4 walls: Amateur, Semi-Pro, Pro and Legend. This is a natural progression of skill, just like in real life. The more advanced the tournament, the more expensive is the entry fee which in turn makes for a bigger pool of WAM Coins.
 
-### **NFT Tournaments**
+### **Tournaments**
 
 This will be a special type of tournament where the entry is not based on a fee but by owning a specific NFT. Users will have a chance at winning a % of the prize pool without having to pay an entrance fee.
 
