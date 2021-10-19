@@ -15,7 +15,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Rankings" %}
-
+![](.gitbook/assets/wam\_appintro\_rankings.png)
 {% endtab %}
 
 {% tab title="Friends" %}
