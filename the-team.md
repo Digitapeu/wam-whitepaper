@@ -1,8 +1,8 @@
 ---
 description: >-
-  WAM.app is being built by an international team of experienced people in game
-  publishing, software engineering, marketing and business development, focused
-  on executing on our vision.
+  WAM.app is being built at Digitap by an international team of experienced
+  people in game publishing, marketing, community management and business
+  development, focused on executing on our vision.
 ---
 
 # 🦄 The Team
@@ -14,6 +14,8 @@ description: >-
 ****![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/danieltamas**](https://www.linkedin.com/in/danieltamas)****
 
 Daniel started his gaming career in 2007 cofounding IDEA Studios, an indie game studio and publisher. He is also a big believer in browser technologies, open platforms and blockchain tech.
+
+Wrote the first line of code in high school while playing a popular MMORPG in 2003, Dark Throne.&#x20;
 
 Since 2007 he and his team created more than 4000 viral online games that reached more than 3 billion players worldwide. His responsibilities varied from operations to engineering, design, business development, sales and marketing, monetisation, product development or heading the R\&D department in companies that generated more than €7m in revenue to date from ads and licensing.
 
@@ -117,7 +119,7 @@ She has a proven record of successful negotiations with new partners, setting up
 
 ### **Alexander Ivanov – Gaming Marketing Manager**
 
-![](.gitbook/assets/linkedin\_logo.png)** **
+![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/alexander-ivanov-b14692214/**](https://www.linkedin.com/in/alexander-ivanov-b14692214/)****
 
 Alex has more than 4 years of experience in performance marketing, including hands-on expertise working with promotion and analytics systems, as well as promotion of gaming projects in ASO.
 

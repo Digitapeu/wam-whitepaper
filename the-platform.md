@@ -2,7 +2,15 @@
 
 ### Mission
 
+{% hint style="info" %}
 Our mission is simple: to increase the adoption of crypto through fun, competitive and easy to play games regardless of device without the need to know how the tech works.
+{% endhint %}
+
+### Games
+
+![](.gitbook/assets/games.png)
+
+**WAM.app** publishes simple to play, easy to learn skill games generally called hyper casual games. These games do not require any type of previous knowledge from the player nor does it require vast amounts of time invested in mastering them. This makes hyper casual games a favourite game genre for a very big audience: in 2020 1.5 billion people considered themselves hyper casual players.
 
 ### **Gameplay**
 
@@ -11,10 +19,6 @@ The games published on WAM are diverse and different, each having its own easy t
 One can continue from a certain score (up to 3 times) by either paying a small fee in WAM Coins or by watching a rewarded ad.\
 \
 Once the 3 tries are over, the game is automatically reset to 0 so everyone has the same opportunity to win, independently of a user’s funds.
-
-### Games
-
-WAM.app publishes simple to play, easy to learn skill games generally called hyper casual games. These games do not require any type of previous knowledge from the player nor does it require vast amounts of time invested in mastering them. This makes hyper casual games a favourite game genre for a very big audience: in 2020 1.5 billion people considered themselves hyper casual players.
 
 ### **Play to Earn**
 
