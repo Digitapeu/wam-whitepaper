@@ -12,7 +12,7 @@ Launched in February 2021 as public beta we reached more than **2.5m players** i
 
 
 
-**Digitap** raised $350k in a **pre-seed** round for **WAM.app** in November 2020 and a $3m pre-money valuation from Voicu Oprean, the CEO of Arobs, a publicly traded company on the Romanian Stock Exchange&#x20;
+**Digitap** raised $350k in a **pre-seed** round for **WAM.app** in November 2020 at a $3m pre-money valuation from Voicu Oprean, the CEO of Arobs, a publicly traded company on the Romanian Stock Exchange&#x20;
 {% endhint %}
 
 {% hint style="info" %}
