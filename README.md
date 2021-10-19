@@ -2,7 +2,7 @@
 description: >-
   WAM.app is a play-to-earn social gaming platform where users can compete in
   skill based tournaments on simple yet very popular and highly engaging and
-  entertaining hyper casual games, to win WAM Coins
+  entertaining hyper casual games, to win WAM Coin
 ---
 
 # WAM.app
