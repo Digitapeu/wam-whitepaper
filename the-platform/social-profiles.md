@@ -11,19 +11,19 @@ In order to better highlight a profile's achievements we're also gonna add **bad
 Being a social platform also means you can add other players as friends, chat with them and in the future create clans with whom you can compete against others.
 
 {% tabs %}
-{% tab title="Profile" %}
-![](<../.gitbook/assets/image (5).png>)
+{% tab title="Account" %}
+![](../.gitbook/assets/wam\_appintro\_account.jpg)
 {% endtab %}
 
 {% tab title="Friends" %}
-![](<../.gitbook/assets/image (9) (1).png>)
+![](<../.gitbook/assets/wam\_appintro\_friends (1).jpg>)
 {% endtab %}
 
 {% tab title="Notifications" %}
-![](<../.gitbook/assets/image (10).png>)
+![](../.gitbook/assets/wam\_appintro\_notifications.jpg)
 {% endtab %}
 
 {% tab title="Rankings" %}
-![](<../.gitbook/assets/image (4).png>)
+![](../.gitbook/assets/wam\_appintro\_rankings.jpg)
 {% endtab %}
 {% endtabs %}

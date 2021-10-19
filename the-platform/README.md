@@ -37,7 +37,7 @@ There are 4 walls: **Amateur**, **Semi-Pro**, **Pro** and **Legend **– where y
 
 The platform will also have a _discovery section_, where you can find _private tournaments_ created by other players. For the private tournaments the _entrance fee_ and other settings (like duration) are set by the tournament creator.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/wam\_appintro\_feed (1).jpg>)
 
 ### **NFT Tournaments**
 
