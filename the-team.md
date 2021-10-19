@@ -59,7 +59,7 @@ With **ChatX.ai** product he also won the **Techsylvania Runner up Award - in 20
 
 ### **Olga Serebriakova – CMO**
 
-![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/olga-havryliuk**](https://www.linkedin.com/in/olga-havryliuk)****
+![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/olga-serebriakova**](https://www.linkedin.com/in/olga-serebriakova/)****
 
 Olga, with more than 8 years in digital marketing has been filling the CMO role for TerraLeads where she was responsible for creating, managing and measuring the results of millions of users while coordinating a large team of media buyers, designers and content managers.&#x20;
 
