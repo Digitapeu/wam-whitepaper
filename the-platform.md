@@ -19,7 +19,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Friends" %}
-![](.gitbook/assets/wam\_appintro\_friends.png)
+![](<.gitbook/assets/wam\_appintro\_friends (1).png>)
 {% endtab %}
 
 {% tab title="Notifications" %}
@@ -27,15 +27,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Account" %}
-
-{% endtab %}
-
-{% tab title="Wallet" %}
-
-{% endtab %}
-
-{% tab title="Chat" %}
-
+![](.gitbook/assets/wam\_appintro\_account.png)
 {% endtab %}
 {% endtabs %}
 
