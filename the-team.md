@@ -1,8 +1,8 @@
 ---
 description: >-
   WAM.app is being built at Digitap by an international team of experienced
-  people in game publishing, marketing, community management and business
-  development, focused on executing on our vision.
+  people in game publishing, software engineering, marketing, community
+  management and business development, focused on executin
 ---
 
 # 🦄 The Team
@@ -43,11 +43,13 @@ In 2016 he cofounded Digitap with Daniel, bringing the social media and business
 
 ![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/vlad-mustiata**](https://www.linkedin.com/in/vlad-mustiata)****
 
-Vlad started his career in computer science after attending the Polytechnic University of Bucharest.&#x20;
+Vlad wrote his first lines of code at the age of 15, but his passion for computers began even earlier. He started working as a freelancer during high school, then attended the Polytechnic University of Bucharest to deepen his knowledge in computer science.
 
-He co-founded StylishThemes and took the CTO role for 5 years, a startup that had more than 10k customers for their Wordpress custom made themes and €1m in annual revenues. Co-founder and CEO at ChatX, a smart shopping assistant&#x20;
+During this period of time he discovered a passion for building his own projects and co-founded his first startup called **StylishThemes** – where he took the CTO role for the first time. Here's where he learned not only how to be a better software engineer but also how to manage people and scale engineering teams.
 
-Won the **Techsylvania Runner up Award - 2017.  **Both Daniel and Alex were angel investors in ChatX.
+In the following 8 years he had the CTO position (and in one case Head of Development) in multiple companies and startups: **BMan**, **Mandarine**, **ChatX.ai** and now **Digitap **– building a wide range of software products (e-commerce solutions, news publishing platforms, live auction platforms, crypto exchanges, chatbots, ML models and many more).
+
+With **ChatX.ai** product he also won the **Techsylvania Runner up Award - in 2017.**
 
 
 
