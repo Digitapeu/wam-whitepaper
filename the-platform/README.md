@@ -11,13 +11,13 @@ description: >-
 
 ### Our Games
 
-**WAM.app** publishes simple to play, easy to learn skill games generally called hyper-casual games. These games have easy to learn mechanics and do not require any type of previous knowledge from the player nor does it require vast amounts of time invested in mastering them.&#x20;
+**WAM.app** publishes simple-to-play, easy-to-learn, skill-based games generally called hyper-casual games. These games have easy to learn mechanics and do not require any type of previous knowledge from the player nor does it require vast amounts of time invested in mastering them.&#x20;
 
 This makes hyper-casual games a favourite game genre for a very big audience: in 2020, _1.5 billion people_ considered themselves hyper-casual players.
 
 ### **Gameplay**
 
-In order to play a game you'll have to _enter_ a public or private **tournament** of that game. Each tournament have different _entrance fees _and_ reward pools – _in **WAM Coins**. For each player who _enters_ a tournament we increase its _reward pool_ by a fixed amount of **WAM Coins**.
+In order to play a game you'll have to _enter_ a public or private **tournament** of that game. Each tournament have different _entrance fees _and_ reward pools – _in **WAM Coins**. With each player who _enters_ a tournament, its _reward pool _increases by a fixed amount of** WAM Coins.**
 
 All our games and tournaments are **skill based**. So when you're playing, the main goal is to make the best score and to get as high as possible in the rankings.
 
@@ -41,7 +41,7 @@ The platform will also have a _discovery section_, where you can find _private t
 
 ### **NFT Tournaments**
 
-There is also a special type of tournaments: NFT tournaments. These are special because in order to _enter_ the player have to own a special **NFT pass**. The _entrance fee_ will zero and the _reward pool_ will be guaranteed by the platform.
+There is also a special type of tournaments: NFT tournaments. These are special because in order to _enter_ the player has to own a special **NFT pass**. The _entrance fee _will be zero and the reward pool will be guaranteed by the platform.
 
 Players can get NFT passes either as a reward from the platform – as seen above – or by purchasing it from other players on the marketplace.
 

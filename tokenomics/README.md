@@ -1,6 +1,6 @@
 # Tokenomics
 
-**WAM Coin** will be unlocked gradually in a pre-determined schedule that will last for 120 months from the Token Generation Event (TGE). The initial circulating supply is set to **20,000,000 WAM **with an initial market cap at list price of **US$500,000**.
+**WAM Coin** will be unlocked gradually in a pre-determined schedule that will last for 120 months from the Token Generation Event (TGE). The initial circulating supply is set to **20,000,000 WAM Coins **with an initial market cap at list price of **US$500,000**.
 
 ![Token Allocation](<../.gitbook/assets/image (1) (1).png>)
 

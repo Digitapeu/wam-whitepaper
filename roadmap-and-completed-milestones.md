@@ -2,7 +2,7 @@
 description: Updated 15th October 2021
 ---
 
-# Roadmap and completed milestones
+# Roadmap and Completed Milestones
 
 ## Roadmap
 
@@ -16,7 +16,7 @@ description: Updated 15th October 2021
   * Infrastructure upgrades for our backend services;
   * NFTs marketplace launch;
 * Q2 2022:&#x20;
-  * Team tournaments – create your team and play agains others;
+  * Team tournaments – create your team and play against others;
   * Developer program to incentivise game developers publish their games on **WAM.app**;
 * Q3: 2022:&#x20;
   * Game creation engine with **Artificial Intelligence** – users will be able to create their own hyper-casual games just with some simple instructions and use those games in private tournaments;

@@ -2,7 +2,7 @@
 description: >-
   WAM.app is being built at Digitap by an international team of experienced
   people in game publishing, marketing, community management and business
-  development, focused on executing on our vision.
+  development, focused on executing our vision.
 ---
 
 # 🦄 The Team
@@ -29,9 +29,7 @@ In 2016 he cofounded Digitap with the purpose of pushing the boundaries of game 
 
 ![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/rus-alex**](https://www.linkedin.com/in/rus-alex)****
 
-Alex’s background is social media publishing, business development and portfolio management of privately held companies in the fo
-
-llowing areas: automotive, hospitality and investment companies with more than €6 million in annual revenues having the CBO role.
+Alex’s background is social media publishing, business development and portfolio management of privately held companies in the following areas: automotive, hospitality and investment companies with more than €6 million in annual revenues holding the CBO role.
 
 His previous roles included social media partnership building, business development with Romanian influencers and managing a portfolio of social media communities totalling more than 100 million monthly reach.
 
@@ -49,7 +47,7 @@ Vlad wrote his first lines of code at the age of 15, but his passion for compute
 
 During this period of time he discovered a passion for building his own projects and co-founded his first startup called **StylishThemes** – where he took the CTO role for the first time. Here's where he learned not only how to be a better software engineer but also how to manage people and scale engineering teams.
 
-In the following 8 years he had the CTO position (and in one case Head of Development) in multiple companies and startups: **BMan**, **Mandarine**, **ChatX.ai** and now **Digitap **– building a wide range of software products (e-commerce solutions, news publishing platforms, live auction platforms, crypto exchanges, chatbots, ML models and many more).
+In the following 8 years he held the CTO position (and in one case Head of Development) in multiple companies and startups: **BMan**, **Mandarine**, **ChatX.ai** and now **Digitap **– building a wide range of software products (e-commerce solutions, news publishing platforms, live auction platforms, crypto exchanges, chatbots, ML models and many more).
 
 With **ChatX.ai** product he also won the **Techsylvania Runner up Award - in 2017.**
 
@@ -147,7 +145,7 @@ Marius is currently a partner in Adnumus.
 
 ![](.gitbook/assets/linkedin\_logo.png) [**https://www.linkedin.com/in/alexsuciu-**](https://www.linkedin.com/in/alexsuciu-)****
 
-Alex is an M\&A specialist and IT enthusiast. His background is in sociology and law and is currently working on a masters degree in programming.
+Alex is an M\&A specialist and IT enthusiast. His background is in sociology and law and he is currently working on a masters degree in programming.
 
 He started his career in banking and had his first business at 24, providing cost reduction consultancy for companies with at least €1,5 m turnover.
 

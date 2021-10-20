@@ -1,14 +1,14 @@
 ---
 description: >-
   WAM.app is a play-to-earn social gaming platform where users can compete in
-  skill based tournaments on simple and highly engaging and entertaining hyper
-  casual games, to win crypto rewards.
+  skill-based tournaments on simple and highly engaging and entertaining
+  hyper-casual games, to win crypto rewards.
 ---
 
 # WAM.app
 
 {% hint style="success" %}
-Launched in February 2021 as public beta we reached more than **2.5m players** in less than 2 months with 10k people tournaments. After this initial success we decided to create the mobile apps where to this date they have been downloaded more than 30k times so far.
+Launched in February 2021 as public beta we reached more than **2.5m players** in less than 2 months with 10k players tournaments. After this initial success we decided to create the mobile apps where to this date they have been downloaded more than 30k times so far.
 
 **Digitap** raised a traditional **pre-seed** round of $350k for **WAM.app** in November 2020 at a $3m pre-money valuation from **Voicu Oprean**, the CEO of **Arobs**, a publicly traded company on the Romanian Stock Exchange.
 
