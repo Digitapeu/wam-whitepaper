@@ -22,4 +22,4 @@
 
 The chart below illustrates the maximum possible issuance of **WAM Coin** over the coming years, and that the total supply will never exceed **1,000,000,000**.
 
-![WAM Coin Release Schedule](<../.gitbook/assets/image (9).png>)
+![WAM Coin Release Schedule](<../.gitbook/assets/image (9) (1).png>)

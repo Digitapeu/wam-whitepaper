@@ -12,18 +12,18 @@ Being a social platform also means you can add other players as friends, chat wi
 
 {% tabs %}
 {% tab title="Account" %}
-![](../.gitbook/assets/wam\_appintro\_account.jpg)
+![](<../.gitbook/assets/image (10).png>)
 {% endtab %}
 
 {% tab title="Friends" %}
-![](<../.gitbook/assets/wam\_appintro\_friends (1).jpg>)
+![](<../.gitbook/assets/image (15).png>)
 {% endtab %}
 
 {% tab title="Notifications" %}
-![](../.gitbook/assets/wam\_appintro\_notifications.jpg)
+![](<../.gitbook/assets/image (9).png>)
 {% endtab %}
 
 {% tab title="Rankings" %}
-![](../.gitbook/assets/wam\_appintro\_rankings.jpg)
+![](<../.gitbook/assets/image (13).png>)
 {% endtab %}
 {% endtabs %}
