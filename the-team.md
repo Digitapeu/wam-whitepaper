@@ -165,6 +165,4 @@ His daily creative stand ups keep all the team on track to what is important to 
 
 
 
-Last time part of the team was together was before the pandemic
-
-![](.gitbook/assets/wam\_team.png)
+![Last time part of the team was together was before the pandemic.](.gitbook/assets/wam\_team.png)
