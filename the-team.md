@@ -3,6 +3,8 @@ description: >-
   WAM.app is being built at Digitap by an international team of experienced
   people in game publishing, marketing, community management and business
   development, focused on executing our vision.
+cover: .gitbook/assets/wam_app_poster_2 (1).jpg
+coverY: 0
 ---
 
 # 🦄 The Team

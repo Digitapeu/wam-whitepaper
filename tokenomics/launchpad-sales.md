@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/wam_app_poster_2 (1).jpg
+coverY: 0
+---
+
 # Launchpad Sales
 
 {% tabs %}
@@ -8,8 +13,6 @@
 {% endtab %}
 
 {% tab title="Release Schedule" %}
-
-
 | Date    | Launchpad Sale |
 | ------- | -------------- |
 | Day 0   | 2,000,000      |

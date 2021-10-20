@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/wam_app_poster_2 (1).jpg
+coverY: 0
+---
+
 # Developer Program
 
 Our vision is to have a wide range of hyper-casual games on **WAM.app** so that everyone can find a game where their skills can shine.&#x20;

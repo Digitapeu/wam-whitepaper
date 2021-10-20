@@ -1,5 +1,7 @@
 ---
 description: Updated 15th October 2021
+cover: .gitbook/assets/wam_app_poster_2 (1).jpg
+coverY: 0
 ---
 
 # Roadmap and Completed Milestones

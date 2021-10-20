@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/wam_app_poster_2 (1).jpg
+coverY: 0
+---
+
 # Social Profiles
 
 Each player on the platform has its own social profile which is public and can be seen by others.

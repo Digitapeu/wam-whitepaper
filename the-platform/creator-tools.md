@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/wam_app_poster_2 (1).jpg
+coverY: 0
+---
+
 # Creator Tools
 
 As mentioned before, players on **WAM.app** can create their own _private tournaments_ where they can invite friends or their communities. Being a tournament host that brings value on the platform, means you will receive more **WAM Coin** rewards from the pool.&#x20;

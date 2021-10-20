@@ -1,3 +1,11 @@
+---
+description: >-
+  WAM.app is a centralised gaming app using decentralised technologies to add
+  transparency, ownership and trust.
+cover: .gitbook/assets/wam_app_poster_2 (1).jpg
+coverY: 0
+---
+
 # Technology
 
 **WAM.app** is available on both web (any browser or PWA) and mobile devices (iOS & Android). It was built from scratch as a powerful and capable platform that can support millions of players. We’ve invested more than 20.000 hours in research, design, development and testing while using the latest and top notch technologies available (Nuxt.js, React Native, Swift, Java, Node.js, Go and Laravel).
