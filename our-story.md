@@ -1,11 +1,13 @@
 ---
 description: >-
   This page contains the story about how WAM.app came to be and why we believe
-  it will be a game changer in the world of gaming. #html5 #crypto #games
+  it will be a game changer in the world of crypto-gaming. #html5 #crypto #games
   #hybridapp #browser
 ---
 
 # Our Story
+
+> ## “ The only way to discover the limits of the possible is to go beyond them into the impossible. ” - _<mark style="color:green;">Arthur C. Clarke</mark>_
 
 Our story begins in 2007 with the first game our team has every published. Back then games were Flash and Flash was games, on the open web. Crappy graphics, low performing computers, endless hours of fun and joy with friends.
 
@@ -63,7 +65,3 @@ If you believe that the power of pure fun with friends is **transformative**, jo
 
 Learn to use crypto and win real rewards you can own without having to think about how the tech works. Just play.
 {% endhint %}
-
-> ## “ The only way to discover the limits of the possible is to go beyond them into the impossible. ”
-
-– Arthur C. Clarke
