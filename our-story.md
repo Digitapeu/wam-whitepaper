@@ -13,7 +13,7 @@ Our story begins in 2007 with the first game our team has every published. Back 
 
 A lot has changed since including the birth of mobile games, the iPhone, Android, mobile stores with hundreds then thousands and now millions of games from developers based all over the world.
 
-With more and more performing devices coming out every year, most developers focus on the high end range and are focused on striking gold using a combination of great storyline or game design, cool graphics, ads and inapp purchases.
+While phones have indeed progressed tremendously in the past 10 years, the users can still face some issues with low performance, limited data plans, most of the times without access to a bank card or a postpay contract with operators.
 
 ### The Problem(s)
 
@@ -21,12 +21,12 @@ While phones have indeed progressed tremendously in the past 10 years, the stati
 
 All the above create the following reality:
 
-1. Making a living out of playing games is still the realm of professional eSports players who play on AAA gaming titles. This is in contrast with the big majority of users who still play casually but get none of the upsides of being good at a game.
-2. Gamers do not get anything back no matter how good they are at playing games or how much time they invested in developing the skills required to be good at one title
+1. Making a living out of playing games is still the realm of professional eSports players who play on AAA gaming titles. This is in contrast with the big majority of users who still play casually but get none of the upsides of being good at a game and win nothing.
+2. Gamers do not get anything back no matter how good they are at playing games or how much time they invested in developing the skills required to be good at one title.
 3. A lot of people around the world have limited entertainment options when it comes to accessing it from their mobile devices. They cannot download high end games because it's either expensive or low performing on their phones.
 4. Furthermore, in order to allow these users to play and make some revenue, developers are faced to stuff their games with tonnes of ads just to break even while struggling to get noticed on either Apple Store or Google Play because of the marketing costs and stiff competition.
 
-We believe we have a better, more open, simple and easily accessible way: https://wam.app
+We believe we have a better, more open, simple and easily accessible way: [https://wam.app](https://wam.app)
 
 ### Our Solution - The Global Arcade Platform
 
@@ -56,9 +56,9 @@ The blockchain allows us to give access to **WAM.app** in a private fashion ( yo
 
 With the rise of **NFTs** users have ownership of their digital rewards, they can trade them on marketplaces outside **WAM.app**, send them to friends or collect them. The important thing is: you decide.
 
-Tournaments become secure by default making it very hard for bad actors to manipulate results, meaning your skill **really does matter**.
+Tournaments become secure by default making it very hard for bad actors to manipulate results, meaning **your skill** **really does matter**.
 
-We also imagined an audacious scenario: what if by allowing users to compete for crypto rewards we actually ignite the mass adoption of crypto? What if?
+We also imagined an audacious scenario: what if by allowing users to compete for crypto rewards we actually ignite the mass adoption of crypto? **What if?**
 
 {% hint style="success" %}
 If you believe that the power of pure fun with friends is **transformative**, join us on **WAM.app** and be part of this journey we are on now.&#x20;
