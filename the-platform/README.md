@@ -27,7 +27,7 @@ You can see each tournament ranking in real time and easily notice when other pl
 
 ### **Play to Earn**
 
-Each tournament _reward distribution scheme_ will be visible and transparent at any times as long as the tournament is open. When its duration has ended the _rewards_ are allocated to a number of players that participated and had the best scores. Each player's wallet will be credited with the amount of **WAM Coins** he earned from the _reward pool_.
+Each tournament _reward distribution table_ will be visible and transparent at any times as long as the tournament is open. When its duration has ended the _rewards_ are allocated to a number of players that participated and had the best scores. Each player's wallet will be credited with the amount of **WAM Coins** he earned from the _reward pool_.
 
 There are also other ways to earn **WAM Coins** rewards. These will be highlighted in the platform under the _Rewards Center_ / _Daily Challenges_ and will be frequently changed.
 

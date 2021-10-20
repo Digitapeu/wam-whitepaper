@@ -1,7 +1,7 @@
 # Table of contents
 
 * [WAM.app](README.md)
-* [The Story](the-story.md)
+* [Our Story](our-story.md)
 * [The Platform](the-platform/README.md)
   * [Social Profiles](the-platform/social-profiles.md)
   * [Creator Tools](the-platform/creator-tools.md)

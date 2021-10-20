@@ -165,3 +165,6 @@ Having spent the last 9y in a gaming company with a clear focus on delivering va
 \
 His daily creative stand ups keep all the team on track to what is important to our community: having fun on simple, competitive games.
 
+
+
+Last time the team was together was before the pandemic
