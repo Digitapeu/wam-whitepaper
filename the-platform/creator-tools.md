@@ -6,7 +6,7 @@ In the near future, the creators will also be able to **build their own hyper-ca
 
 Below, is the first screen from the tournament creation panel. This allows any user from any compatible device to create their own custom tournament on pre-existing games to invite and play with friends of their choosing.
 
-![](<../.gitbook/assets/image (16).png>)
+![](../.gitbook/assets/image.png)
 
 Likewise, creators will be able to create** custom NFTs** which will be distributed as rewards for the participants of their tournaments.
 
