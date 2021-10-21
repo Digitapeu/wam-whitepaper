@@ -23,7 +23,7 @@ In order to play a game you'll have to _enter_ a public or private **tournament*
 
 All our games and tournaments are **skill based**. So when you're playing, the main goal is to make the best score and to get as high as possible in the rankings.
 
-One can continue from a certain score (up to 3 times) by either paying a small fee in **WAM Coins** or by watching a rewarded ad. Once the 3 tries are over, the game is automatically reset to 0 so everyone has the same opportunity to win, independently of a user’s funds.
+One can continue from a certain score (up to 3 times) by either paying a small fee in **WAM Coins**. Once the 3 tries are over, the game is automatically reset to 0 so everyone has the same opportunity to win, independently of a user’s funds.
 
 You can see each tournament ranking in real time and easily notice when other players surpass your score and take your place.
 
@@ -35,7 +35,7 @@ There are also other ways to earn **WAM Coins** rewards. These will be highlight
 
 ### Tournaments Discovery
 
-There are 4 walls: **Amateur**, **Semi-Pro**, **Pro** and **Legend **– where you can find public tournaments created by WAM.app team. This is a natural progression of skill, just like in real life. The more advanced the tournament, the more expensive is the entry fee which in turn makes for a bigger pool of WAM Coins.
+There are 4 tournament walls: **Amateur**, **Semi-Pro**, **Pro** and **Legend **– where you can find public tournaments created by WAM.app team. This is a natural progression of skill, just like in real life. The more advanced the tournament, the more expensive is the entry fee which in turn makes for a bigger pool of **WAM Coins**.
 
 The platform will also have a _discovery section_, where you can find _private tournaments_ created by other players. For the private tournaments the _entrance fee_ and other settings (like duration) are set by the tournament creator.
 
