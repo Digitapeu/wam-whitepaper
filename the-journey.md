@@ -2,6 +2,8 @@
 description: >-
   Daniel started his gaming career like every respectable professional out
   there: driving his parents nuts because of endless days in front of the pc.
+cover: .gitbook/assets/wam_app_poster_2 (1).jpg
+coverY: 0
 ---
 
 # The Journey
