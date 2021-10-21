@@ -2,6 +2,7 @@
 
 * [WAM.app](README.md)
 * [Our Story](our-story.md)
+* [The Journey](the-journey.md)
 * [The Platform](the-platform/README.md)
   * [Social Profiles](the-platform/social-profiles.md)
   * [Creator Tools](the-platform/creator-tools.md)
