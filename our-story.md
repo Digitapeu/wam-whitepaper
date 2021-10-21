@@ -15,11 +15,9 @@ Our story begins in 2007 with the first game our team has every published. Back 
 
 A lot has changed since including the birth of mobile games, the iPhone, Android, mobile stores with hundreds then thousands and now millions of games from developers based all over the world.
 
-While phones have indeed progressed tremendously in the past 10 years, the users can still face some issues with low performance, limited data plans, most of the times without access to a bank card or a postpay contract with operators.
-
 ### The Problem(s)
 
-While phones have indeed progressed tremendously in the past 10 years, the statistics show most users are Android users with mid-to-low end devices with 3G connections, a limited data plan, most of the times without access to a bank card or a postpay contract with operators.
+While phones have indeed progressed tremendously in the past 10 years, the users can still face some issues with low performance, limited data plan, most of the times without access to a bank card or a postpay contract with operators.
 
 All the above create the following reality:
 
