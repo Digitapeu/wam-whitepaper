@@ -2,7 +2,7 @@
 description: >-
   Building a great product and experience requires a lot of work, skill and
   knowhow. These are the people and companies helping WAM.app grow.
-cover: .gitbook/assets/wam_app_poster_2 (1).jpg
+cover: .gitbook/assets/wam_app_poster_3 (1).jpg
 coverY: 0
 ---
 

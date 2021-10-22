@@ -3,7 +3,7 @@ description: >-
   WAM's mission is simple: to increase the adoption of crypto through fun,
   competitive and easy to play games regardless of device without the need to
   know how the tech works.
-cover: ../.gitbook/assets/wam_app_poster_2 (1).jpg
+cover: ../.gitbook/assets/wam_app_poster_3 (1).jpg
 coverY: 0
 ---
 

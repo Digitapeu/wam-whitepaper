@@ -3,7 +3,7 @@ description: >-
   Daniel started his gaming career like every respectable professional out
   there: driving his parents nuts because of endless days in front of the pc.
   This was the road taken so far.
-cover: .gitbook/assets/wam_app_poster_2 (1).jpg
+cover: .gitbook/assets/wam_app_poster_3 (1).jpg
 coverY: 0
 ---
 

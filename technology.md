@@ -2,7 +2,7 @@
 description: >-
   WAM.app is a centralised gaming app using decentralised technologies to add
   transparency, ownership and trust.
-cover: .gitbook/assets/wam_app_poster_2 (1).jpg
+cover: .gitbook/assets/wam_app_poster_3 (1).jpg
 coverY: 0
 ---
 

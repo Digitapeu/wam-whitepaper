@@ -3,7 +3,7 @@ description: >-
   This page contains the story about how WAM.app came to be and why we believe
   it will be a game changer in the world of crypto-gaming. #html5 #crypto #games
   #hybridapp #browser
-cover: .gitbook/assets/wam_app_poster_2 (1).jpg
+cover: .gitbook/assets/wam_app_poster_3 (1).jpg
 coverY: 0
 ---
 
