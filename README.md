@@ -3,7 +3,7 @@ description: >-
   WAM.app is a play-to-earn social gaming platform where users can compete in
   skill-based tournaments on simple and highly engaging and entertaining
   hyper-casual games, to win crypto rewards.
-cover: .gitbook/assets/wam_app_poster_2 (1).jpg
+cover: .gitbook/assets/wam_app_poster_3.jpg
 coverY: 0
 ---
 
