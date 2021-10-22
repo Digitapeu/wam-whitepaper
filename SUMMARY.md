@@ -1,6 +1,6 @@
 # Table of contents
 
-* [WAM.app](README.md)
+* [Executive Summary](README.md)
 * [Our Story](our-story.md)
 * [The Journey](the-journey.md)
 * [Product Roadmap](product-roadmap.md)

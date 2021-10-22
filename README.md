@@ -7,7 +7,7 @@ cover: .gitbook/assets/wam_app_poster_2 (1).jpg
 coverY: 0
 ---
 
-# WAM.app
+# Executive Summary
 
 {% hint style="success" %}
 Launched in February 2021 as public beta we reached more than **2.5m players** in less than 2 months with 10k players tournaments. After this initial success we decided to create the mobile apps where to this date they have been downloaded more than 30k times so far.
@@ -35,11 +35,8 @@ We got our inspiration from real life amateur sports tournaments where millions 
 
 On **WAM.app** players can:&#x20;
 
-* participate in tournaments to win WAM Coins
-* create their own tournaments where they can invite their friends and set their own participation rules
+* participate in tournaments to win rewards in WAM Coins
 * create their own games with AI assisted technology using their phones
 * trade NFTs won in specific tournaments on the marketplace
 * build their player profile by winning tournaments
-* grow an audience of fans
-
-{% embed url="https://www.youtube.com/watch?ab_channel=Digitap&v=RFiE1zIb-y4" %}
+* grow an audience of fans to engage with them through custom tournaments
