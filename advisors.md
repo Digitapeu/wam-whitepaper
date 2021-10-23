@@ -33,3 +33,14 @@ He also graduated the Executive Management Program - Blockchain Academy at the U
 Bitcoin and cryptocurrencies are his biggest passions. Since 2017, he is educating people about blockchain and crypto on his YouTube channel. He's also the founder of the first Romanian publishing company that translates and publishes books about Bitcoin and cryptocurrencies: [https://iblock.ro/](https://iblock.ro).&#x20;
 
 Daniel is a consultant as well, and help start-ups and individuals making transitions to crypto. In the past he worked in the IT industry where he founded and grew a couple of successful startups (for example StylishThemes or ChatX.ai).
+
+![](.gitbook/assets/robertvulpe.png)
+
+### Robert Vulpe
+
+Robert, also known in the cyber security space as **nytrOgen**, is a 24 year old security specialist, a former captain of the Romanian team at the 2019 European Cyber Security Finals.&#x20;
+
+He studied Informatics at the University of Bucharest and is currently working with several Fortune 500 companies as a Penetration Tester.
+
+"This role puts me in the shoes of a cyber attacker and my main objective is to penetrate the IT systems of the company that contracts me. I'm also a part of the StartCluster nucleus, a startup who's focus is to see the IT industry in a less conventional way".&#x20;
+
