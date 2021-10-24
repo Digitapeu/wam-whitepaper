@@ -9,7 +9,8 @@ coverY: 0
 ## Roadmap
 
 * October 2021: Presale started
-* Early December 2021: Launchpad Sales & Token Generation Event
+* November 2021: Start hiring more team members for development
+* Early December 2021: Launchpad Sales & Token Generation Event (TGE)
 * Mid/Late December 2021:&#x20;
   * Security audits & final testing of the platform;
   * Migration to the blockchain compatible version where players are able to use and earn **WAM Coins**;
