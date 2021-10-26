@@ -9,7 +9,7 @@ coverY: 0
 {% tab title="Overview" %}
 | Token Amount | % of total supply |
 | ------------ | ----------------- |
-| 463,000,000  | 46.3%             |
+| 458,000,000  | 45.8%             |
 {% endtab %}
 
 {% tab title="Release Schedule" %}
@@ -139,7 +139,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-We decided to offer **most of the tokens (46.3%)** to our community, in the reward pool. These tokens will be released gradually each month for **120 months (10 years)** through a mining system based on each person's contribution to the platform. Some ideas would be the following:&#x20;
+We decided to offer **most of the tokens (45.8%)** to our community, in the reward pool. These tokens will be released gradually each month for **120 months (10 years)** through a mining system based on each person's contribution to the platform. Some ideas would be the following:&#x20;
 
 * Inviting new players to join the platform
 * Organising regular tournaments and bringing lots of players on them
