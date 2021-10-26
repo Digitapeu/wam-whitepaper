@@ -1,5 +1,5 @@
 ---
-description: Updated 15th October 2021
+description: Updated 26th October 2021
 cover: .gitbook/assets/wam_app_poster_3 (1).jpg
 coverY: 0
 ---
@@ -10,19 +10,19 @@ coverY: 0
 
 * October 2021: Presale started
 * November 2021: Start hiring more team members for development
-* Early December 2021: Launchpad Sales & Token Generation Event (TGE)
+* Early December 2021: Launchpad Sales & Token Generation Event (**TGE**)
 * Mid/Late December 2021:&#x20;
-  * Security audits & final testing of the platform;
-  * Migration to the blockchain compatible version where players are able to use and earn **WAM Coins**;
+  * Security audits & final testing of the platform
+  * Migration to the blockchain compatible version where players are able to use and earn **WAM Coins**
 * Q1 2022:
-  * Discovery section where you can find more public & private tournaments, follow other players,  meet new people;
-  * Infrastructure upgrades for our backend services;
-  * NFTs marketplace launch;
+  * Discovery section where you can find more public & private tournaments, follow other players,  meet new people
+  * Infrastructure upgrades for our backend services
+  * NFTs marketplace launch
 * Q2 2022:&#x20;
-  * Team tournaments – create your team and play against others;
-  * Developer program to incentivise game developers publish their games on **WAM.app**;
+  * Team tournaments – create your team and play against others
+  * Developer program to incentivise game developers publish their games on **WAM.app**
 * Q3: 2022:&#x20;
-  * Game creation engine with **Artificial Intelligence** – users will be able to create their own hyper-casual games just with some simple instructions and use those games in private tournaments;
+  * Game creation engine with **Artificial Intelligence** – users will be able to create their own hyper-casual games just with some simple instructions and use those games in private tournaments
 
 ## **Completed milestones**
 
@@ -38,6 +38,6 @@ coverY: 0
 * November 2020: Traditional pre-seed round of $350k from Voicu Oprean ( CEO Arobs - a publicly traded company on the Romanian Stock Exchange ) at a $3m pre-money valuation
 * January 2021: Affiliate program V1 ( backend + frontend integration ) First 3 media partnerships
 * February 2021: Public beta live 1m users in the first 30 days 10k users in tournaments
-* March 2021: 2m users reached after 45 days of public beta 5 new media partners In platform user feedback system
+* March 2021: +2m users reached after 45 days of public beta 5 new media partners In platform user feedback system
 * July 2021: Nominated as Best Innovation Finalist at 2021 Mobile Games Awards
 * Mid October 2021: Released v1 of Whitepaper & Tokenomics
