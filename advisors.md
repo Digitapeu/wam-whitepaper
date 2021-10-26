@@ -34,6 +34,16 @@ Bitcoin and cryptocurrencies are his biggest passions. Since 2017, he is educati
 
 Daniel is a consultant as well, and help start-ups and individuals making transitions to crypto. In the past he worked in the IT industry where he founded and grew a couple of successful startups (for example StylishThemes or ChatX.ai).
 
+![](.gitbook/assets/octavianjula.png)
+
+### Octavian Jula
+
+Economist with more than 20 years of experience, financial consultant, business analysis and expert accountant. Phd in Economics from 2007 with graduation of bachelor and master degrees.&#x20;
+
+Octavian is the CEO of 2 financial advisory companies established in 2005 and 2013 where he acts as the fiscal advisor. He is highly interested in specific markets – real estate, it and retail.&#x20;
+
+He is an Associate Professor in Economics and Corporate Governance at the Babeș Bolyai University.
+
 ![](.gitbook/assets/robertvulpe.png)
 
 ### Robert Vulpe
