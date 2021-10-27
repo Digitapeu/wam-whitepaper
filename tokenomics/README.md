@@ -10,19 +10,19 @@ coverY: 0
 
 ![WAM Coin Distribution](<../.gitbook/assets/image (2).png>)
 
-| Category          | Allocation        | %        | Lockup & Vesting                                                                                       |
-| ----------------- | ----------------- | -------- | ------------------------------------------------------------------------------------------------------ |
-| Seed Sales        | 43,000,000        | 4.3%     | Vested for **7 months**, 5% at listing, 10% on months 1, 2, 3 & 4, 15% on months 5, 6 & 25% on month 8 |
-| Private Sales     | 75,000,000        | 7.5%     | Vested for **7 months**, 5% at listing, 10% on months 1, 2, 3 & 4, 15% on months 5, 6 & 25% on month 8 |
-| Launchpad Sales   | 12,000,000        | 1.2%     | Vested for **4 months**, 10% at listing, 20% on months 1, 2 & 3, 30% on month 4                        |
-| Liquidity Pool    | 12,000,000        | 1.2%     | 100% released instantly                                                                                |
-| Reward Pool       | 463,000,000       | 45.8%    | Vested for 120 months, 0.16% released instantly                                                        |
-| Marketing         | 120,000,000       | 12%      | Vested for 48 months, 2.08% released monthly                                                           |
-| Development       | 80,000,000        | 8%       | Vested for 48 months, 2.08% released monthly                                                           |
-| Team              | 100,000,000       | 10%      | 12-months cliff, vested for 24 months, 4.16% released each month                                       |
-| Company Reserve   | 50,000,000        | 5%       | Vested for 52 months, 5.55% released quarterly                                                         |
-| Advisors          | 50,000,000        | 5%       | 12-months cliff, vested for 24 months, 4.16% released each month                                       |
-| **Total amount ** | **1,000,000,000** | **100%** |                                                                                                        |
+| Category          | Allocation        | %        | Lockup & Vesting                                                                                             |
+| ----------------- | ----------------- | -------- | ------------------------------------------------------------------------------------------------------------ |
+| Seed Sales        | 43,000,000        | 4.3%     | Vested for **7 months**, 5% at listing, 10% on _months 1, 2, 3 & 4_, 15% on _months 5, 6_ & 25% on _month 7_ |
+| Private Sales     | 75,000,000        | 7.5%     | Vested for **7 months**, 5% at listing, 10% on _months 1, 2, 3 & 4_, 15% on _months 5, 6_ & 25% on _month 7_ |
+| Launchpad Sales   | 12,000,000        | 1.2%     | Vested for **4 months**, 10% at listing, 20% on _months 1, 2 & 3_, 30% on _month 4_                          |
+| Liquidity Pool    | 12,000,000        | 1.2%     | 100% released instantly                                                                                      |
+| Reward Pool       | 463,000,000       | 45.8%    | Vested for 120 months, 0.16% released instantly                                                              |
+| Marketing         | 120,000,000       | 12%      | Vested for 48 months, 2.08% released monthly                                                                 |
+| Development       | 80,000,000        | 8%       | Vested for 48 months, 2.08% released monthly                                                                 |
+| Team              | 100,000,000       | 10%      | 12-months cliff, vested for 24 months, 4.16% released each month                                             |
+| Company Reserve   | 50,000,000        | 5%       | Vested for 52 months, 5.55% released quarterly                                                               |
+| Advisors          | 50,000,000        | 5%       | 12-months cliff, vested for 24 months, 4.16% released each month                                             |
+| **Total amount ** | **1,000,000,000** | **100%** |                                                                                                              |
 
 
 
