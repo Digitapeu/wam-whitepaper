@@ -67,4 +67,6 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-2% released every month during 48 months.
+We will responsibly use the marketing funds in order to increase the awareness of both the **WAM Coin** and **WAM.app **platform. As marketing is a very important piece for any project, we've allocated 12% of the total WAM Coins in this category.
+
+These coins have **1-month cliff** and are vested for **48 months** – 2% released every month. The release (minting) for this allocation also depends on how many coins are needed each month. If in one month we do not need any, then they will be allocated for the following months.

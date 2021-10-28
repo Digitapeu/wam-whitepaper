@@ -8,8 +8,12 @@ coverY: 0
 
 ## Roadmap
 
-* October 2021: Presale started
-* November 2021: Start hiring more team members for development
+* October 2021:&#x20;
+  * Starting the pre-sales and some strategic partnerships
+* November 2021:&#x20;
+  * Hiring more team members to strengthen our internal resources
+  * Licensing a batch of new awesome games to prepare for the public release
+  * Starting to work on blockchain integration (smart contracts, wallets, etc)
 * Early December 2021: Launchpad Sales & Token Generation Event (**TGE**)
 * Mid/Late December 2021:&#x20;
   * Security audits & final testing of the platform

@@ -26,6 +26,11 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-5% of the private sales tokens will be unlocked from day zero. The rest of the tokens will be distributed in the following 7 months as can be seen from the **Unlock schedule**.
+Vested for **7 months**:
+
+* _5%_ at listing&#x20;
+* _10%_ on **months 1, 2, 3 & 4**
+* _15%_ on **months 5, 6**
+* _25%_ on **month 7**
 
 These investors will purchase **WAM Coins** at a 20% discount.
