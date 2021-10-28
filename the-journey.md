@@ -9,6 +9,6 @@ coverY: 0
 
 # The Journey
 
-Hey everyone, Daniel here. On this page you can see in a very compact visualisation what has been the journey so far for me and the team behind WAM.app. It's just part of the adventure, join us for the rest, we'll have a blast.
+Hey everyone, Daniel here. On this page you can see in a very simple visualisation what has been the journey so far for myself and the team behind WAM.app. It's just part of the adventure, join us for the rest, we'll have a blast, together.
 
-![](<.gitbook/assets/wam\_roadmap (2).jpg>)
+![](<.gitbook/assets/wam\_roadmap (3).jpg>)
