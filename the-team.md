@@ -23,6 +23,8 @@ Since 2007 he and his team created more than 4000 viral online games that reache
 
 In 2016 he cofounded Digitap with the purpose of pushing the boundaries of game publishing targeting the browser as a true free and open platform without gatekeepers.
 
+In 2017 following the PirateBay hype with the **Monero** browser miner, Daniel launched coinerra.com to experiment with browser mining.
+
 
 
 ![](.gitbook/assets/wam\_alexrus.png)
