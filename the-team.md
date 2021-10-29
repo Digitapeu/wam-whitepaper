@@ -49,7 +49,9 @@ Vlad wrote his first lines of code at the age of 15, but his passion for compute
 
 During this period of time he discovered a passion for building his own projects and co-founded his first startup called **StylishThemes** – where he took the CTO role for the first time. Here's where he learned not only how to be a better software engineer but also how to manage people and scale engineering teams.
 
-In the following 8 years he held the CTO position (and in one case Head of Development) in multiple companies and startups: **BMan**, **Mandarine**, **ChatX.ai** and now **Digitap **– building a wide range of software products (e-commerce solutions, news publishing platforms, live auction platforms, crypto exchanges, chatbots, ML models and many more).
+In the following 8 years he held the CTO position (and in one case Head of Development) in multiple companies and startups: **BMan**, **Mandarine**, **ChatX.ai** and now **Digitap **– building a wide range of software products (e-commerce solutions, news publishing platforms, live auction platforms, blockchain, chatbots, ML models and many more).
+
+In recent years, Vlad also worked on a range of **blockchain / crypto** projects (like [buxano.com](https://buxano.com), [aidoskuneen.com](https://aidoskuneen.com), [aidosmarket.com](https://aidosmarket.com) and others) where he accumulated knowledge on how to build and scale software in this emerging field.
 
 With **ChatX.ai** product he also won the **Techsylvania Runner up Award - in 2017.**
 
