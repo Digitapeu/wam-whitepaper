@@ -52,5 +52,5 @@ Robert, also known in the cyber security space as **nytrOgen**, is a 24 year old
 
 He studied Informatics at the University of Bucharest and is currently working with several Fortune 500 companies as a Penetration Tester.
 
-"This role puts me in the shoes of a cyber attacker and my main objective is to penetrate the IT systems of the company that contracts me. I'm also a part of the StartCluster nucleus, a startup who's focus is to see the IT industry in a less conventional way".&#x20;
+"This role puts me in the shoes of a cyber attacker and my main objective is to penetrate the IT systems of the company that contracts me.
 
