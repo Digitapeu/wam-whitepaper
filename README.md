@@ -9,13 +9,7 @@ coverY: 0
 
 # Executive Summary
 
-[![](<.gitbook/assets/Group 2138@2x (1).png>)](https://discord.com/invite/MuB4NQ5ErQ)
-
-[![](<.gitbook/assets/Group 2139@2x.png>)](https://t.me/wamapp)
-
-[![](<.gitbook/assets/Group 2137@2x.png>)](https://twitter.com/wamcoin)
-
-
+[![](<.gitbook/assets/Group 2138@2x (1).png>)](https://discord.com/invite/MuB4NQ5ErQ)[![](<.gitbook/assets/Group 2139@2x.png>)](https://t.me/wamapp)[![](<.gitbook/assets/Group 2137@2x.png>)](https://twitter.com/wamcoin)
 
 {% hint style="success" %}
 In November 2020 **Digitap** raised a traditional **pre-seed** round of $350k for **WAM.app** at a $3m pre-money valuation.
