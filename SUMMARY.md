@@ -22,3 +22,4 @@
 * [Technology](technology.md)
 * [🦄 The Team](the-team.md)
 * [Advisors](advisors.md)
+* [Terms and Conditions](terms-and-conditions.md)
