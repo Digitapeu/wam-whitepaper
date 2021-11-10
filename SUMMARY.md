@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Terms and Conditions](README.md)
+* [Executive Summary](README.md)
+* [Terms and Conditions](<README (1).md>)
 * [Privacy Policy](privacy-policy.md)
-* [Executive Summary](<README (1).md>)
 * [Our Story](our-story.md)
 * [The Journey](the-journey.md)
 * [Product Roadmap](product-roadmap.md)
