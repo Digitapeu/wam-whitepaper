@@ -16,7 +16,7 @@ In November 2020 **Digitap** raised a traditional **pre-seed** round of $350k fo
 
 [https://www.crunchbase.com/organization/digitap/company\_financials](https://www.crunchbase.com/organization/digitap/company\_financials)
 
-Launched in February 2021 as public beta **WAM** reached more than **2.5m players** in less than 2 months with 10k players tournaments.&#x20;
+Launched in February 2021 as public beta **WAM** reached more than **2.5m players** in less than 2 months with 10k players tournaments and **+3.5m users** until Nov 2021 .&#x20;
 
 After this initial success we decided to create the mobile apps where to this date they have been downloaded more than 30k times so far.
 {% endhint %}
