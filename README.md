@@ -12,13 +12,13 @@ coverY: 0
 [![](<.gitbook/assets/Group 2138@2x (1).png>)](https://discord.com/invite/MuB4NQ5ErQ)[![](<.gitbook/assets/Group 2139@2x.png>)](https://t.me/wamapp)[![](<.gitbook/assets/Group 2137@2x.png>)](https://twitter.com/wamcoin)
 
 {% hint style="success" %}
-In November 2020 **Digitap** raised a traditional **pre-seed** round of $350k for **WAM.app** at a $3m pre-money valuation.
+In November 2020 **Digitap** raised a traditional **pre-seed** round of $350K for **WAM.app** at a $3M pre-money valuation.
 
 [https://www.crunchbase.com/organization/digitap/company\_financials](https://www.crunchbase.com/organization/digitap/company\_financials)
 
-Launched in February 2021 as public beta **WAM** reached more than **2.5m players** in less than 2 months with 10k players tournaments and **+3.5m users** until Nov 2021 .&#x20;
+Launched in February 2021 as public beta **WAM** reached more than **2.5M players** in less than 2 months with 10K players tournaments and **+3.5M players** until Nov 2021 .&#x20;
 
-After this initial success we decided to create the mobile apps where to this date they have been downloaded more than 30k times so far.
+After this initial success we decided to create the mobile apps where to this date they have been downloaded more than **180K** times so far.
 {% endhint %}
 
 On **WAM.app**, the more a player wins the more their in-platform rank grows, just like normal real-life leaderboards in competitive sports. Once a player advances their rank they can participate in more rewarding tournaments with higher _entrance fees _& _reward pools_.
