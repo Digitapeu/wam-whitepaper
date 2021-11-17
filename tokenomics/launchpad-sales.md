@@ -9,22 +9,22 @@ coverY: 0
 {% tab title="Overview" %}
 | Token Amount | % of total supply |
 | ------------ | ----------------- |
-| 12,000,000   | 1.2%              |
+| 24,000,000   | 2,4%              |
 {% endtab %}
 
 {% tab title="Release Schedule" %}
 | Date    | Launchpad Sale |
 | ------- | -------------- |
-| Day 0   | 1,200,000      |
-| Month 1 | 2,400,000      |
-| Month 2 | 2,400,000      |
-| Month 3 | 2,400,000      |
-| Month 4 | 3,600,000      |
+| Day 0   | 3,600,000      |
+| Month 1 | 4,800,000      |
+| Month 2 | 4,800,000      |
+| Month 3 | 4,800,000      |
+| Month 4 | 6,000,000      |
 {% endtab %}
 {% endtabs %}
 
 Vested for **4 months**:
 
-* _10%_ at listing
+* _15%_ at listing
 * _20%_ on **months 1, 2 & 3**
-* _30%_ on **month 4**
+* _25%_ on **month 4**

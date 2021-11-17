@@ -16,6 +16,22 @@ Legion Ventures is the largest community of crypto investors in Romania who is d
 
 With an overall reach of over 100,000 members/followers through different social media platforms. Our members have a strong interest in learning and investing in different cryptocurrencies platforms. Legion Ventures has around 2000+ members, most being active investors since 2017 and we've individually invested and helped more than 50 projects starting from their private sale. We are now setting up a new structure with the aim of becoming the biggest community investing group in Eastern Europe.
 
+
+
+![](.gitbook/assets/wam\_oriondepp.png)
+
+### Orion Depp
+
+Starting his career as a dev. Intern at Apple many years ago, Orion now **spearheads the Master Ventures Investment Management division** including the **Master Ventures Polkadot VC Fund**, to help institutional investors deploy capital into potential tier 1 Polkadot & Kusama parachain winners.&#x20;
+
+Orion is also a capital markets advisor to top-ranked gaming and metaverse projects such as StepHero, Meta Spatial & others in the BSC & Solana ecosystems. Prior to this, Orion served as an activist investor to TrueFi (Coinbase: Tru) and was the first institutional sell-side altcoin research analyst in the nation, initiating coverage on BNB (Binance Coin) at $6. Orion holds an MBA in investment management, is a 40 under 40 award winner and has studied at prestigious institutions including M.I.T., USC & LSE.
+
+![](.gitbook/assets/wam\_kevinabdulrahman.png)
+
+### Kevin Abdulrahman
+
+Kevin Abdulrahman is the **trusted advisor & strategist** to some of the **hottest crypto projects in the NFT/Gaming space**. He is also a public speaking coach to CEOs, founders and world leaders.
+
 ![](.gitbook/assets/sebcochinescu.png)
 
 ### Sebastian Cochinescu
