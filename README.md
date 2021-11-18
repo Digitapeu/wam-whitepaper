@@ -44,3 +44,5 @@ On **WAM.app** players can:&#x20;
 * trade NFTs won in specific tournaments on the marketplace
 * build their player profile by winning tournaments
 * grow an audience of fans to engage with them through custom tournaments
+
+![](.gitbook/assets/wam\_tokenomics@2x.jpg)
