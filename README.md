@@ -45,4 +45,4 @@ On **WAM.app** players can:&#x20;
 * build their player profile by winning tournaments
 * grow an audience of fans to engage with them through custom tournaments
 
-![CLICK / TAP TO ENLARGE](<.gitbook/assets/wam\_tokenomics@2x (2).jpg>)
+![](<.gitbook/assets/wam\_tokenomics@2x (3).jpg>)
