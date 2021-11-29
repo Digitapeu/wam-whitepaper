@@ -44,5 +44,25 @@ On **WAM.app** players can:&#x20;
 * trade NFTs won in specific tournaments on the marketplace
 * build their player profile by winning tournaments
 * grow an audience of fans to engage with them through custom tournaments
+* own games and tournaments as NFTs to get recurring revenue
+* grow a following by hosting tournaments and promoting them
 
 ![](.gitbook/assets/wam\_tokenomics.jpg)
+
+## The Vision
+
+To create a multi-sided marketplace where all participants take and bring value at the same time using smart-contracts and for this we propose the following models
+
+1. Play-to-Earn
+2. Develop-to-Earn
+3. Create-to-Earn
+4. Market-to-Earn
+5. Own-to-Earn
+
+## The Mission
+
+Our mission is to ignite mass crypto adoption by building a simple to use crypto-gaming platform where users can pay with their credit-cards to get $WAM and to participate in tournaments to earn more $WAM.
+
+## The Dao
+
+The future belongs to decentralised autonomous organisations. In our case, the WAM token will also become the governance token. Every WAM token owner will be able to vote for W.I.P ( WAM Improvement Proposal ) platform development proposals. Every WAM token owner will own a small part of the DAO protocol.
