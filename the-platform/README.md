@@ -19,7 +19,7 @@ This makes hyper-casual games a favourite game genre for a very big audience: in
 
 ### **Gameplay**
 
-In order to play a game you'll have to _enter_ a public or private **tournament** of that game. Each tournament have different _entrance fees _and_ reward pools – _in **WAM Coins**. With each player who _enters_ a tournament, its _reward pool _increases by a fixed amount of** WAM Coins.**
+In order to play a game you'll have to _enter_ a public or private **tournament** of that game. Each tournament have different _entrance fees_ and _reward pools –_ in **WAM Coins**. With each player who _enters_ a tournament, its _reward pool_ increases by a fixed amount of **WAM Coins.**
 
 All our games and tournaments are **skill based**. So when you're playing, the main goal is to make the best score and to get as high as possible in the rankings.
 
@@ -35,7 +35,7 @@ There are also other ways to earn **WAM Coins** rewards. These will be highlight
 
 ### Tournaments Discovery
 
-There are 4 tournament walls: **Amateur**, **Semi-Pro**, **Pro** and **Legend **– where you can find public tournaments created by WAM.app team. This is a natural progression of skill, just like in real life. The more advanced the tournament, the more expensive is the entry fee which in turn makes for a bigger pool of **WAM Coins**.
+There are 4 tournament walls: **Amateur**, **Semi-Pro**, **Pro** and **Legend** – where you can find public tournaments created by WAM.app team. This is a natural progression of skill, just like in real life. The more advanced the tournament, the more expensive is the entry fee which in turn makes for a bigger pool of **WAM Coins**.
 
 The platform will also have a _discovery section_, where you can find _private tournaments_ created by other players. For the private tournaments the _entrance fee_ and other settings (like duration) are set by the tournament creator.
 
@@ -43,7 +43,7 @@ The platform will also have a _discovery section_, where you can find _private t
 
 ### **NFT Tournaments**
 
-There is also a special type of tournaments: NFT tournaments. These are special because in order to _enter_ the player has to own a special **NFT pass**. The _entrance fee _will be zero and the reward pool will be guaranteed by the platform.
+There is also a special type of tournaments: NFT tournaments. These are special because in order to _enter_ the player has to own a special **NFT pass**. The _entrance fee_ will be zero and the reward pool will be guaranteed by the platform.
 
 Players can get NFT passes either as a reward from the platform – as seen above – or by purchasing it from other players on the marketplace.
 

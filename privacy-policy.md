@@ -30,21 +30,21 @@ The purpose of this Token Privacy Policy is to easily inform you about:
 
 ### 1. The definitions of the terms provided by the GDPR
 
-**NSAPDP **represents The National Supervisory Authority for Personal Data Processing, the Romanian independent public authority responsible for the compliance with the protection of personal data requirements.
+**NSAPDP** represents The National Supervisory Authority for Personal Data Processing, the Romanian independent public authority responsible for the compliance with the protection of personal data requirements.
 
-**Personal data **represents any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+**Personal data** represents any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 
-**Processing **represents any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+**Processing** represents any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
 
-**Restriction of processing **represents the marking of stored personal data with the aim of limiting their processing in the future.
+**Restriction of processing** represents the marking of stored personal data with the aim of limiting their processing in the future.
 
-**Controller **represents the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by the European Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law.
+**Controller** represents the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by the European Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law.
 
-**Processor **represents a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.
+**Processor** represents a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.
 
-**Recipient **represents a natural or legal person, public authority, agency or another body, to which the personal data are disclosed, whether it is a third party or not. However, public authorities which may receive personal data in the framework of a particular inquiry in accordance with the European Union or Member State law shall not be regarded as recipients; the processing of those data by those public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing.
+**Recipient** represents a natural or legal person, public authority, agency or another body, to which the personal data are disclosed, whether it is a third party or not. However, public authorities which may receive personal data in the framework of a particular inquiry in accordance with the European Union or Member State law shall not be regarded as recipients; the processing of those data by those public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing.
 
-**Third party **a natural or legal person, public authority, agency or body other than the data subject, controller, processor and persons who, under the direct authority of the controller or processor, are authorised to process personal data.
+**Third party** a natural or legal person, public authority, agency or body other than the data subject, controller, processor and persons who, under the direct authority of the controller or processor, are authorised to process personal data.
 
 **Data Breach** represents a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data. This means that a breach is more than just losing personal data.
 
@@ -74,15 +74,15 @@ WamGlobal processes the users’ personal data, as follows:
 
 **CATEGORY 1 – WAM Tokens’ buyers**
 
-**Personal data **– first name, last name, date of birth, country of residence, the series and number of the identification document (ID card, passport, driving licence, etc), e-mail address, the phone number and the Public Registered Address (the wallet’s public address), financial status (which may indirectly results from the amount of the acquired Tokens).
+**Personal data** – first name, last name, date of birth, country of residence, the series and number of the identification document (ID card, passport, driving licence, etc), e-mail address, the phone number and the Public Registered Address (the wallet’s public address), financial status (which may indirectly results from the amount of the acquired Tokens).
 
-**The purpose of processing **– the personal data are processed for the purpose of allowing you to acquire the WAM Tokens, as the applicable laws require us to collect and process the personal data mentioned above. All the personal data are processed for (i) concluding the Agreement, (ii) issuing the invoice and (iii) complying with the requirements imposed by the regulation applicable to Know Your Customer (KYC), Anti Money Laundering (AML) and Politically Exposed Persons(PEP).
+**The purpose of processing** – the personal data are processed for the purpose of allowing you to acquire the WAM Tokens, as the applicable laws require us to collect and process the personal data mentioned above. All the personal data are processed for (i) concluding the Agreement, (ii) issuing the invoice and (iii) complying with the requirements imposed by the regulation applicable to Know Your Customer (KYC), Anti Money Laundering (AML) and Politically Exposed Persons(PEP).
 
 **The legal basis** – art. 6 para. 1 letter b) of the GDPR, which allows us to process personal data, when necessary, for the performance of a contract.
 
 art. 6 para. 1, letter c) of the GDPR, which allows us to process personal data, when is necessary to comply with the applicable legal provision.
 
-**The collection method **- directly from you, when you access the platform indicated by us and fulfil the KYC procedure.
+**The collection method** - directly from you, when you access the platform indicated by us and fulfil the KYC procedure.
 
 **The retention period** – as a rule we try to keep less data as possible, and in this case, we are keeping your personal data as long as it is required by the applicable law, especially the anti-money laundering and fighting against terrorism laws.
 
@@ -90,17 +90,17 @@ All data are maintained at least 1 year after you will Claim the last instalment
 
 **CATEGORY 2 – SOCIAL MEDIA PLATFORMS**
 
-**Personal data **– related to each user, such as: user’s social media accounts; any other information users decide to provide us with when they contact us on the social media platforms; any other information users decide to provide us with when they contact us by e-mail; comments and/or posts on our profiles.
+**Personal data** – related to each user, such as: user’s social media accounts; any other information users decide to provide us with when they contact us on the social media platforms; any other information users decide to provide us with when they contact us by e-mail; comments and/or posts on our profiles.
 
 _**Given that the internet is not a safe space, please do not send us or limit, as much as possible, the personal data communicated through social platforms or e-mail.**_
 
-**The purpose of processing **– the personal data mentioned above are processed for customer support purposes_._
+**The purpose of processing** – the personal data mentioned above are processed for customer support purposes_._
 
 **The legal Basis**: Art. 6 para. 1 letter b) of the GDPR Regulation, which allows us to process personal data when necessary, for performance of a contract or for the steps prior to its conclusion.
 
-**The collection method **– personal data are collected directly from users when they decide to contact us.
+**The collection method** – personal data are collected directly from users when they decide to contact us.
 
-**The retention period: **personal data are stored for the purpose of proving the fulfilment of contractual obligations between the parties for a period between 30 days and 1 year, depending on the nature of the request (complaint, request for guarantee, contractual request, general request, etc.)
+**The retention period:** personal data are stored for the purpose of proving the fulfilment of contractual obligations between the parties for a period between 30 days and 1 year, depending on the nature of the request (complaint, request for guarantee, contractual request, general request, etc.)
 
 Generally, personal data are kept for a limited period according to the purpose of the processing and the legal provisions applicable to each category of data.
 
@@ -198,10 +198,10 @@ If you consider that your rights provided by Regulation no. 679/2016 have been v
 
 **Contact details of the authority:**
 
-**Link for compliances: **[**https://www.dataprotection.ro/?page=Plangeri\_pagina\_principala**](https://www.dataprotection.ro/?page=Plangeri\_pagina\_principala)
+**Link for compliances:** [**https://www.dataprotection.ro/?page=Plangeri\_pagina\_principala**](https://www.dataprotection.ro/?page=Plangeri\_pagina\_principala)
 
-**Contact link: **[**https://www.dataprotection.ro/?page=contact\&lang=ro**](https://www.dataprotection.ro/?page=contact\&lang=ro)
+**Contact link:** [**https://www.dataprotection.ro/?page=contact\&lang=ro**](https://www.dataprotection.ro/?page=contact\&lang=ro)
 
-**Website: **[**https://www.dataprotection.ro/**](https://www.dataprotection.ro)
+**Website:** [**https://www.dataprotection.ro/**](https://www.dataprotection.ro)
 
 **Address: B-dul G-ral. Gheorghe Magheru 28-30, Sector 1, cod postal 010336, Bucuresti, Romania**

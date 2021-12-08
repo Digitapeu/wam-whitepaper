@@ -30,7 +30,7 @@ coverY: 0
 
 ## **Completed milestones**
 
-* September 2019:** **Frontend UI MVP done ( no backend ) Licensed first batch of games
+* September 2019: **** Frontend UI MVP done ( no backend ) Licensed first batch of games
 * October 2019: Nuxt.js web app V1 done Backend V1 done API V1 endpoints done
 * November 2019: Social server V1 operational Frontend connected to the social server Social authentication using Facebook & Email
 * December 2019: User generated tournaments UI update for feed-style game discovery JS Game SDK for game-2-platform communication

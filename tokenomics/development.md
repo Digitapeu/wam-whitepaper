@@ -9,62 +9,62 @@ coverY: 0
 {% tab title="Overview" %}
 | Token Amount | % of total supply |
 | ------------ | ----------------- |
-| 80,000,000   | 8%                |
+| 50,000,000   | 5%                |
 {% endtab %}
 
 {% tab title="Release Schedule" %}
 | Date     | Development |
 | -------- | ----------- |
 | Day 0    | 0           |
-| Month 1  | 1,666,664   |
-| Month 2  | 1,666,664   |
-| Month 3  | 1,666,664   |
-| Month 4  | 1,666,664   |
-| Month 5  | 1,666,664   |
-| Month 6  | 1,666,664   |
-| Month 7  | 1,666,664   |
-| Month 8  | 1,666,664   |
-| Month 9  | 1,666,664   |
-| Month 10 | 1,666,664   |
-| Month 11 | 1,666,664   |
-| Month 12 | 1,666,664   |
-| Month 13 | 1,666,664   |
-| Month 14 | 1,666,664   |
-| Month 15 | 1,666,664   |
-| Month 16 | 1,666,664   |
-| Month 17 | 1,666,664   |
-| Month 18 | 1,666,664   |
-| Month 19 | 1,666,664   |
-| Month 20 | 1,666,664   |
-| Month 21 | 1,666,664   |
-| Month 22 | 1,666,664   |
-| Month 23 | 1,666,664   |
-| Month 24 | 1,666,664   |
-| Month 25 | 1,666,664   |
-| Month 26 | 1,666,664   |
-| Month 27 | 1,666,664   |
-| Month 28 | 1,666,664   |
-| Month 29 | 1,666,664   |
-| Month 30 | 1,666,664   |
-| Month 31 | 1,666,664   |
-| Month 32 | 1,666,664   |
-| Month 33 | 1,666,664   |
-| Month 34 | 1,666,664   |
-| Month 35 | 1,666,664   |
-| Month 36 | 1,666,664   |
-| Month 37 | 1,666,664   |
-| Month 38 | 1,666,664   |
-| Month 39 | 1,666,664   |
-| Month 40 | 1,666,664   |
-| Month 41 | 1,666,664   |
-| Month 42 | 1,666,664   |
-| Month 43 | 1,666,664   |
-| Month 44 | 1,666,664   |
-| Month 45 | 1,666,664   |
-| Month 46 | 1,666,664   |
-| Month 47 | 1,666,664   |
-| Month 48 | 1,666,792   |
+| Month 1  | 1,041,667   |
+| Month 2  | 1,041,667   |
+| Month 3  | 1,041,667   |
+| Month 4  | 1,041,667   |
+| Month 5  | 1,041,667   |
+| Month 6  | 1,041,667   |
+| Month 7  | 1,041,667   |
+| Month 8  | 1,041,667   |
+| Month 9  | 1,041,667   |
+| Month 10 | 1,041,667   |
+| Month 11 | 1,041,667   |
+| Month 12 | 1,041,667   |
+| Month 13 | 1,041,667   |
+| Month 14 | 1,041,667   |
+| Month 15 | 1,041,667   |
+| Month 16 | 1,041,667   |
+| Month 17 | 1,041,667   |
+| Month 18 | 1,041,667   |
+| Month 19 | 1,041,667   |
+| Month 20 | 1,041,667   |
+| Month 21 | 1,041,667   |
+| Month 22 | 1,041,667   |
+| Month 23 | 1,041,667   |
+| Month 24 | 1,041,667   |
+| Month 25 | 1,041,667   |
+| Month 26 | 1,041,667   |
+| Month 27 | 1,041,667   |
+| Month 28 | 1,041,667   |
+| Month 29 | 1,041,667   |
+| Month 30 | 1,041,667   |
+| Month 31 | 1,041,667   |
+| Month 32 | 1,041,667   |
+| Month 33 | 1,041,667   |
+| Month 34 | 1,041,667   |
+| Month 35 | 1,041,667   |
+| Month 36 | 1,041,667   |
+| Month 37 | 1,041,667   |
+| Month 38 | 1,041,667   |
+| Month 39 | 1,041,667   |
+| Month 40 | 1,041,667   |
+| Month 41 | 1,041,667   |
+| Month 42 | 1,041,667   |
+| Month 43 | 1,041,667   |
+| Month 44 | 1,041,667   |
+| Month 45 | 1,041,667   |
+| Month 46 | 1,041,667   |
+| Month 47 | 1,041,667   |
+| Month 48 | 1,041,667   |
 {% endtab %}
 {% endtabs %}
 
-These coins have **1-month cliff** and are vested for **48 months** – 2% released every month. The release (minting) for this allocation also depends on how many coins are needed each month. If in one month we do not need any, then they will be allocated for the following months.
+**Vesting**: 1-month cliff then vested for 48 months, 2% released each month if needed or else reallocated for the following months.

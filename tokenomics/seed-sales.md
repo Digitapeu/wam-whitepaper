@@ -9,28 +9,41 @@ coverY: 0
 {% tab title="Overview" %}
 | Token Amount | % of total supply |
 | ------------ | ----------------- |
-| 43,000,000   | 4.3%              |
+| 20,000,000   | 2.0%              |
 {% endtab %}
 
 {% tab title="Unlock schedule" %}
-| Date    | Seed Sales |
-| ------- | ---------- |
-| Day 0   | 2,150,000  |
-| Month 1 | 4,300,000  |
-| Month 2 | 4,300,000  |
-| Month 3 | 4,300,000  |
-| Month 4 | 4,300,000  |
-| Month 5 | 6,450,000  |
-| Month 6 | 6,450,000  |
-| Month 7 | 10,750,000 |
+| Date     | Seed Sales |
+| -------- | ---------- |
+| Day 0    | 2,000,000  |
+| Month 1  | 0          |
+| Month 2  | 0          |
+| Month 3  | 0          |
+| Month 4  | 750,000    |
+| Month 5  | 750,000    |
+| Month 6  | 750,000    |
+| Month 7  | 750,000    |
+| Month 8  | 750,000    |
+| Month 9  | 750,000    |
+| Month 10 | 750,000    |
+| Month 11 | 750,000    |
+| Month 12 | 750,000    |
+| Month 13 | 750,000    |
+| Month 14 | 750,000    |
+| Month 15 | 750,000    |
+| Month 16 | 750,000    |
+| Month 17 | 750,000    |
+| Month 18 | 750,000    |
+| Month 19 | 750,000    |
+| Month 20 | 750,000    |
+| Month 21 | 750,000    |
+| Month 22 | 750,000    |
+| Month 23 | 750,000    |
+| Month 24 | 750,000    |
+| Month 25 | 750,000    |
+| Month 26 | 750,000    |
+| Month 27 | 750,000    |
 {% endtab %}
 {% endtabs %}
 
-Vested for **7 months**:&#x20;
-
-* _5%_ will be released at listing&#x20;
-* _10%_ on **months 1, 2, 3 & 4**
-* _15%_ on **months 5, 6**
-* _25%_ on **month 7**
-
-These investors will purchase **WAM Coins** at a 40% discount.
+**Vesting:** 10% at listing, 3-months cliff, 24-months vesting.

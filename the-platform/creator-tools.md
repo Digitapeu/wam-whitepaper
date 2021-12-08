@@ -13,6 +13,6 @@ Below, is the first screen from the tournament creation panel. This allows any u
 
 ![](../.gitbook/assets/image.png)
 
-Likewise, creators will be able to create** custom NFTs** which will be distributed as rewards for the participants of their tournaments.
+Likewise, creators will be able to create **custom NFTs** which will be distributed as rewards for the participants of their tournaments.
 
 Here we believe games should build a stronger connection with their fans by minting special NFTs for each particular game. By releasing collectable items, users can then in the future participate in tournaments designed just for their preference

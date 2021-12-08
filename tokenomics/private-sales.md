@@ -9,28 +9,41 @@ coverY: 0
 {% tab title="Overview" %}
 | Token Amount | % of total supply |
 | ------------ | ----------------- |
-| 75,000,000   | 7.5%              |
+| 98,000,000   | 9.8%              |
 {% endtab %}
 
 {% tab title="Release Schedule" %}
-| Date    | Private Sales |
-| ------- | ------------- |
-| Day 0   | 3,750,000     |
-| Month 1 | 7,500,000     |
-| Month 2 | 7,500,000     |
-| Month 3 | 7,500,000     |
-| Month 4 | 7,500,000     |
-| Month 5 | 11,250,000    |
-| Month 6 | 11,250,000    |
-| Month 7 | 18,750,000    |
+| Date     | Private Sales |
+| -------- | ------------- |
+| Day 0    | 9,800,000     |
+| Month 1  | 0             |
+| Month 2  | 0             |
+| Month 3  | 0             |
+| Month 4  | 3,675,000     |
+| Month 5  | 3,675,000     |
+| Month 6  | 3,675,000     |
+| Month 7  | 3,675,000     |
+| Month 8  | 3,675,000     |
+| Month 9  | 3,675,000     |
+| Month 10 | 3,675,000     |
+| Month 11 | 3,675,000     |
+| Month 12 | 3,675,000     |
+| Month 13 | 3,675,000     |
+| Month 14 | 3,675,000     |
+| Month 15 | 3,675,000     |
+| Month 16 | 3,675,000     |
+| Month 17 | 3,675,000     |
+| Month 18 | 3,675,000     |
+| Month 19 | 3,675,000     |
+| Month 20 | 3,675,000     |
+| Month 21 | 3,675,000     |
+| Month 22 | 3,675,000     |
+| Month 23 | 3,675,000     |
+| Month 24 | 3,675,000     |
+| Month 25 | 3,675,000     |
+| Month 26 | 3,675,000     |
+| Month 27 | 3,675,000     |
 {% endtab %}
 {% endtabs %}
 
-Vested for **7 months**:
-
-* _5%_ at listing&#x20;
-* _10%_ on **months 1, 2, 3 & 4**
-* _15%_ on **months 5, 6**
-* _25%_ on **month 7**
-
-These investors will purchase **WAM Coins** at a 20% discount.
+**Vesting:** 10% at listing, 3-months cliff, 24-months vesting.

@@ -27,7 +27,7 @@ coverY: 0
 | Month 9  | 0         |
 | Month 10 | 0         |
 | Month 11 | 0         |
-| Month 12 | 2,083,333 |
+| Month 12 | 0         |
 | Month 13 | 2,083,333 |
 | Month 14 | 2,083,333 |
 | Month 15 | 2,083,333 |
@@ -51,7 +51,8 @@ coverY: 0
 | Month 33 | 2,083,333 |
 | Month 34 | 2,083,333 |
 | Month 35 | 2,083,333 |
+| Month 36 | 2,083,333 |
 {% endtab %}
 {% endtabs %}
 
-The tokens distributed to our advisors are locked for **12 months** and will be released gradually afterwards for** 24 more months**.
+The tokens distributed to our advisors are locked for **12 months** and will be released gradually afterwards for **24 more months**.

@@ -6,26 +6,26 @@ coverY: 0
 
 # Tokenomics
 
-**WAM Coin** will be unlocked gradually in a pre-determined schedule that will last for 120 months from the Token Generation Event (TGE). The initial circulating supply (excluding the liquidity pool) is set to **10,250,000 WAM Coins **(from the total of **1,000,000,000**)** **with an initial market cap at list price of **US$256,250**.
+**$WAM** will be unlocked gradually in a pre-determined schedule that will last for 120 months from the Token Generation Event (TGE). The initial circulating supply (excluding the liquidity pool & market making) is set to **20,772,645 $WAM** (from the total of **1,000,000,000**) **** with an initial market cap at list price of **US$415,453**.
 
-![The splitting of the total 1,000,000,000 WAM Coins](<../.gitbook/assets/image (3).png>)
+![1,000,000,000 $WAM – Total Supply](<../.gitbook/assets/image (11).png>)
 
-| Category          | Allocation        | %        | Lockup & Vesting                                                                                                           |
-| ----------------- | ----------------- | -------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Seed Sales        | 43,000,000        | 4.3%     | Vested for **7 months**, 5% at listing, 10% on _months 1, 2, 3 & 4_, 15% on _months 5, 6_ & 25% on _month 7_               |
-| Private Sales     | 75,000,000        | 7.5%     | Vested for **7 months**, 5% at listing, 10% on _months 1, 2, 3 & 4_, 15% on _months 5, 6_ & 25% on _month 7_               |
-| Launchpad Sales   | 24,000,000        | 2.4%     | Vested for **4 months**, 15% at listing, 20% on _months 1, 2 & 3_, 25% on _month 4_                                        |
-| Liquidity Pool    | 12,000,000        | 1.2%     | 100% released instantly                                                                                                    |
-| Reward Pool       | 463,000,000       | 44.6%    | Unlocked as needed over **120 months**, depending on participation                                                         |
-| Marketing         | 120,000,000       | 12%      | 1-month cliff then vested for **48 months**, 2.08% released monthly if needed or else reallocated for the following months |
-| Development       | 80,000,000        | 8%       | 1-month cliff then vested for **48 months**, 2.08% released monthly if needed or else reallocated for the following months |
-| Team              | 100,000,000       | 10%      | **12-months** cliff, vested for 24 months, 4.16% released each month                                                       |
-| Company Reserve   | 50,000,000        | 5%       | **6-months** cliff then vested for **52 months**, 5.55% released quarterly                                                 |
-| Advisors          | 50,000,000        | 5%       | **12-months** cliff, vested for **24 months**, 4.16% released each month                                                   |
-| **Total amount ** | **1,000,000,000** | **100%** |                                                                                                                            |
+| Category                                  | Allocation        | %        | Lockup & Vesting                                                                                                           |
+| ----------------------------------------- | ----------------- | -------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Seed Sales                                | 20,000,000        | 2.0%     | 10% at listing, 3m cliff, 24m vesting                                                                                      |
+| Private Sales                             | 98,000,000        | 9.8%     | 10% at listing, 3m cliff, 24m vesting                                                                                      |
+| Public Sale                               | 24,000,000        | 2.4%     | 20% at listing, 3m cliff, 16m vesting                                                                                      |
+| Liquidity, Staking, MM, and LP Incentives | 92,000,000        | 9.2%     | 28% at listing, 1-month cliff, 18 months vesting with 4% each month                                                        |
+| Reward Pool                               | 400,000,000       | 40%      | Unlocked as needed over **120 months**, depending on participation                                                         |
+| Marketing                                 | 70,000,000        | 7%       | 5% at listing, 5% in month 7, 15% every quarter after the first 12 months                                                  |
+| Development                               | 50,000,000        | 5%       | 1-month cliff then vested for **48 months**, 2.08% released monthly if needed or else reallocated for the following months |
+| Team                                      | 146,000,000       | 14.6%    | **12-months** cliff then vested for 24 months, 4.16% released each month                                                   |
+| Company Reserve                           | 50,000,000        | 5%       | **12-months** cliff then vested for **16 months**, 16.67% released quarterly                                               |
+| Advisors                                  | 50,000,000        | 5%       | **12-months** cliff then vested for **24 months**, 4.16% released each month                                               |
+| **Total amount**                          | **1,000,000,000** | **100%** |                                                                                                                            |
 
 
 
-The chart below illustrates the maximum possible issuance of **WAM Coin** over the coming years, and that the total supply will never exceed **1,000,000,000**.
+The chart below illustrates the maximum possible issuance of $**WAM** over the coming years, and that the total supply will never exceed **1,000,000,000**.
 
-![WAM Coin Release Schedule](<../.gitbook/assets/image (9) (1).png>)
+![$WAM Release Schedule](<../.gitbook/assets/image (12).png>)

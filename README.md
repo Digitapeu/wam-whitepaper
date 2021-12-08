@@ -21,9 +21,9 @@ Launched in February 2021 as public beta **WAM** reached more than **2.5M player
 After this initial success we decided to create the mobile apps where to this date they have been downloaded more than **180K** times so far.
 {% endhint %}
 
-On **WAM.app**, the more a player wins the more their in-platform rank grows, just like normal real-life leaderboards in competitive sports. Once a player advances their rank they can participate in more rewarding tournaments with higher _entrance fees _& _reward pools_.
+On **WAM.app**, the more a player wins the more their in-platform rank grows, just like normal real-life leaderboards in competitive sports. Once a player advances their rank they can participate in more rewarding tournaments with higher _entrance fees_ & _reward pools_.
 
-Each tournament has a _reward pool_ where **WAM.app **adds a fixed amount of **WAM Coins **for every player who pays the _entrance fee_. At the end of the tournament the rewards are distributed algorithmically to a percentage of the top players based on their score and ranking.
+Each tournament has a _reward pool_ where **WAM.app** adds a fixed amount of **WAM Coins** for every player who pays the _entrance fee_. At the end of the tournament the rewards are distributed algorithmically to a percentage of the top players based on their score and ranking.
 
 {% hint style="info" %}
 **WAM.app** was nominated as a finalist at this year’s **Mobile Games Awards** in an impressive line up of companies like Niantic and Huawei.

@@ -10,7 +10,7 @@ coverY: 0
 
 **WAM.app** is available on both web (any browser or PWA) and mobile devices (iOS & Android). It was built from scratch as a powerful and capable platform that can support millions of players. We’ve invested more than 20.000 hours in research, design, development and testing while using the latest and top notch technologies available (Nuxt.js, React Native, Swift, Java, Node.js, Go and Laravel).
 
-Moving forward this will be referred as the _“centralised” _part. On top of it we’re now building the _“decentralised”_ version which will use blockchain technology to record ownership of tokens and allow owners to transfer / sell / use them without restriction.
+Moving forward this will be referred as the _“centralised”_ part. On top of it we’re now building the _“decentralised”_ version which will use blockchain technology to record ownership of tokens and allow owners to transfer / sell / use them without restriction.
 
 ### **Decentralisation and Blockchain**
 

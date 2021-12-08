@@ -13,7 +13,7 @@ coverY: 0
 
 ### **Daniel Tamas – CEO**
 
-****![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/danieltamas**](https://www.linkedin.com/in/danieltamas)****
+****![](.gitbook/assets/linkedin\_logo.png) **** [**https://www.linkedin.com/in/danieltamas**](https://www.linkedin.com/in/danieltamas)****
 
 Daniel started his gaming career in 2007 cofounding IDEA Studios, an indie game studio and publisher. He is also a big believer in browser technologies, open platforms and blockchain tech.
 
@@ -31,7 +31,7 @@ In 2017 following the PirateBay hype with the **Monero** browser miner, Daniel l
 
 ### **Alex Rus – CBO**
 
-![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/rus-alex**](https://www.linkedin.com/in/rus-alex)****
+![](.gitbook/assets/linkedin\_logo.png) **** [**https://www.linkedin.com/in/rus-alex**](https://www.linkedin.com/in/rus-alex)****
 
 Alex’s background is social media publishing, business development and portfolio management of privately held companies in the following areas: automotive, hospitality and investment companies with more than €6 million in annual revenues holding the CBO role.
 
@@ -45,13 +45,13 @@ In 2016 he cofounded Digitap with Daniel, bringing the social media and business
 
 ### **Vlad Mustiata – CTO**
 
-![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/vlad-mustiata**](https://www.linkedin.com/in/vlad-mustiata)****
+![](.gitbook/assets/linkedin\_logo.png) **** [**https://www.linkedin.com/in/vlad-mustiata**](https://www.linkedin.com/in/vlad-mustiata)****
 
 Vlad wrote his first lines of code at the age of 15, but his passion for computers began even earlier. He started working as a freelancer during high school, then attended the Polytechnic University of Bucharest to deepen his knowledge in computer science.
 
 During this period of time he discovered a passion for building his own projects and co-founded his first startup called **StylishThemes** – where he took the CTO role for the first time. Here's where he learned not only how to be a better software engineer but also how to manage people and scale engineering teams.
 
-In the following 8 years he held the CTO position (and in one case Head of Development) in multiple companies and startups: **BMan**, **Mandarine**, **ChatX.ai** and now **Digitap **– building a wide range of software products (e-commerce solutions, news publishing platforms, live auction platforms, blockchain, chatbots, ML models and many more).
+In the following 8 years he held the CTO position (and in one case Head of Development) in multiple companies and startups: **BMan**, **Mandarine**, **ChatX.ai** and now **Digitap** – building a wide range of software products (e-commerce solutions, news publishing platforms, live auction platforms, blockchain, chatbots, ML models and many more).
 
 In recent years, Vlad also worked on a range of **blockchain / crypto** projects (like [buxano.com](https://buxano.com), [aidoskuneen.com](https://aidoskuneen.com), [aidosmarket.com](https://aidosmarket.com) and others) where he accumulated knowledge on how to build and scale software in this emerging field.
 
@@ -63,7 +63,7 @@ With **ChatX.ai** product he also won the **Techsylvania Runner up Award - in 20
 
 ### **Olga Serebriakova – CMO**
 
-![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/olga-serebriakova**](https://www.linkedin.com/in/olga-serebriakova/)****
+![](.gitbook/assets/linkedin\_logo.png) **** [**https://www.linkedin.com/in/olga-serebriakova**](https://www.linkedin.com/in/olga-serebriakova/)****
 
 Olga, with more than 8 years in digital marketing has been filling the CMO role for TerraLeads where she was responsible for creating, managing and measuring the results of millions of users while coordinating a large team of media buyers, designers and content managers.&#x20;
 
@@ -75,7 +75,7 @@ Her overseas training and expertise gives her the ability to manage a multinatio
 
 ### **Anca Tamas – CPO**
 
-![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/ancatamas**](https://www.linkedin.com/in/ancatamas)****
+![](.gitbook/assets/linkedin\_logo.png) **** [**https://www.linkedin.com/in/ancatamas**](https://www.linkedin.com/in/ancatamas)****
 
 Anca’s 10 year game producing experience coupled with extensive user acquisition knowledge and KPI measurement. Having published more than 30.000 games as head of content for several high traffic gaming websites she is leading our content strategy ( tournaments and games ).\
 \
@@ -87,7 +87,7 @@ She has been involved in the whole process of game creation ( research, ideation
 
 ### **Larisa Muresan – COO**
 
-![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/larisa-muresan**](https://www.linkedin.com/in/larisa-muresan)****
+![](.gitbook/assets/linkedin\_logo.png) **** [**https://www.linkedin.com/in/larisa-muresan**](https://www.linkedin.com/in/larisa-muresan)****
 
 Larisa has gained vast experience by overseeing business operations of multiple gaming companies, over a course of 8 years.&#x20;
 
@@ -97,9 +97,9 @@ She was solely responsible for the operational coordination of several key depar
 
 ![](.gitbook/assets/wam\_dariaavramova.png)
 
-### **Daria **Tykhonova** – PR Manager**
+### **Daria** Tykhonova **– PR Manager**
 
-![](.gitbook/assets/linkedin\_logo.png)** **[**https://linkedin.com/in/daria-tykhonova**](https://linkedin.com/in/daria-tykhonova)****
+![](.gitbook/assets/linkedin\_logo.png) **** [**https://linkedin.com/in/daria-tykhonova**](https://linkedin.com/in/daria-tykhonova)****
 
 Daria has been working in digital marketing for +2 years, mostly with social networks and PR.
 
@@ -123,7 +123,7 @@ She has a proven record of successful negotiations with new partners, setting up
 
 ### **Alexander Ivanov – Gaming Marketing Manager**
 
-![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/alexander-ivanov-b14692214/**](https://www.linkedin.com/in/alexander-ivanov-b14692214/)****
+![](.gitbook/assets/linkedin\_logo.png) **** [**https://www.linkedin.com/in/alexander-ivanov-b14692214/**](https://www.linkedin.com/in/alexander-ivanov-b14692214/)****
 
 Alex has more than 4 years of experience in performance marketing, including hands-on expertise working with promotion and analytics systems, as well as promotion of gaming projects in ASO.
 
@@ -135,7 +135,7 @@ In the past, he was involved in the development of media buying automation servi
 
 ### **Marius Rusu – Investor Relations**
 
-![](.gitbook/assets/linkedin\_logo.png)** **[**https://www.linkedin.com/in/mariusrusu**](https://www.linkedin.com/in/mariusrusu)****
+![](.gitbook/assets/linkedin\_logo.png) **** [**https://www.linkedin.com/in/mariusrusu**](https://www.linkedin.com/in/mariusrusu)****
 
 Marius' specialties are mergers and acquisitions, management consultancy and growth advisory. Marius has been on both sides of the table over the last 7 years and has helped dozens of buyers and sellers from all continents.&#x20;
 
