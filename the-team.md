@@ -119,16 +119,6 @@ She has a proven record of successful negotiations with new partners, setting up
 
 
 
-![](.gitbook/assets/wam\_alexivanov.png)
-
-### **Alexander Ivanov – Gaming Marketing Manager**
-
-![](.gitbook/assets/linkedin\_logo.png) **** [**https://www.linkedin.com/in/alexander-ivanov-b14692214/**](https://www.linkedin.com/in/alexander-ivanov-b14692214/)****
-
-Alex has more than 4 years of experience in performance marketing, including hands-on expertise working with promotion and analytics systems, as well as promotion of gaming projects in ASO.
-
-In the past, he was involved in the development of media buying automation services. Alex is a person whose whole life is connected to games and the gaming industry.
-
 
 
 ![](.gitbook/assets/wam\_mariusrusu.png)
