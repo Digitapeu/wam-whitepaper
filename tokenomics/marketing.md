@@ -15,8 +15,8 @@ coverY: 0
 {% tab title="Release Schedule" %}
 | Date     | Marketing  |
 | -------- | ---------- |
-| Day 0    | 0          |
-| Month 1  | 3,500,000  |
+| Day 0    | 3,500,000  |
+| Month 1  |            |
 | Month 2  |            |
 | Month 3  |            |
 | Month 4  |            |
