@@ -46,4 +46,4 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-**Vesting:** 10% at listing, 3-months cliff, 24-months vesting.
+**Vesting:** 10% at listing, 4-months cliff, 24-months vesting.
