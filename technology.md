@@ -18,10 +18,4 @@ We’ll integrate the _ERC-20_ token standard for our **WAM Coin** into the WAM.
 
 There are many benefits for using Ethereum like ease of use, robustness or interoperability. However, for a platform like ours which expects relatively high TPS there’s also an important issue which is scalability (throughput).
 
-That’s why we’ve decided to build WAM’s blockchain layer with Polygon's technology (previously MATIC).
-
-### **The Polygon Network**
-
-Polygon is the most active layer-2 Ethereum scaling solution that exists in the market at the moment. It provides us low cost transactions, EVM compatibility and high speed which is required in order to build an engaging platform. With Polygon we are able to connect and most importantly develop at scale on the Ethereum network.
-
-The power of Ethereum provides a credible layer of trust for users. By leveraging the Plasma framework on Polygon, we have significant advantages over other networks allowing scalability, security and overall better user experience.
+That’s why we’ve decided to build WAM using Binance Smart Chain ( BSC ).
