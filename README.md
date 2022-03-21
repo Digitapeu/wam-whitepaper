@@ -47,7 +47,7 @@ On **WAM.app** players can:&#x20;
 * own games and tournaments as NFTs to get recurring revenue
 * grow a following by hosting tournaments and promoting them
 
-![](<.gitbook/assets/wam\_tokenomics (1).jpg>)
+![](<.gitbook/assets/wam\_tokenomics@2x (4).jpg>)
 
 ## The Vision
 
